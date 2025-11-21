@@ -1,12 +1,11 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-20T23:14:20.805084Z
+# generated at: 2025-11-21T01:11:21.033464Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0x7c.space:7070/announce
@@ -873,6 +872,7 @@ http://retracker.ohys.net/announce
 http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru/announce
+http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
@@ -887,7 +887,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 http://servandroidkino.ru/announce
-http://servandroidkino.ru:80/announce
 http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
@@ -957,7 +956,6 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -967,7 +965,6 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
@@ -1323,7 +1320,6 @@ https://chdbits.xyz/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
 https://cny.fan/announce
-https://cny.fan:443/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
