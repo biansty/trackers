@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-22T07:13:54.838765Z
+# generated at: 2025-11-22T08:19:06.107891Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
