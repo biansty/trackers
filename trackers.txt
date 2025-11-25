@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-24T23:14:46.124398Z
+# generated at: 2025-11-25T01:12:01.171220Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -838,6 +838,7 @@ http://open.touki.ru/announce
 http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
+http://open.trackerlist.xyz:80/announce
 http://open.va.wiki:900/announce
 http://openbittorrent.com/announce
 http://opentracker.acgnx.com:6869/announce
@@ -963,7 +964,9 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
+http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
+http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-rh.zhuqiy.eu.org/announce
@@ -971,6 +974,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
@@ -1011,7 +1015,6 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
 http://tracker.cutie.dating:80/announce
@@ -1402,7 +1405,6 @@ https://t2.pow7.com/announce
 https://t3.leech.ie/announce
 https://thetracker.org:80/announce
 https://threads.canofsocks.com/announce
-https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent.gresille.org/announce
@@ -1473,7 +1475,6 @@ https://tracker.bt4g.com:443/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.carpt.net/announce
 https://tracker.cinefiles.info/announce
 https://tracker.cloudit.top/announce
