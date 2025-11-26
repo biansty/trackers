@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-25T23:14:34.204865Z
+# generated at: 2025-11-26T01:12:30.666334Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -880,6 +880,7 @@ http://retracker.ohys.net/announce
 http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru/announce
+http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
@@ -1006,7 +1007,6 @@ http://tracker.btcake.com/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
-http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de/announce
 http://tracker.ccp.ovh:6969/announce
@@ -1016,6 +1016,7 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
+http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
 http://tracker.cutie.dating:80/announce
@@ -1182,7 +1183,6 @@ http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
-http://tracker2.dler.org:80/announce
 http://tracker2.istole.it:60500/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker2.torrentino.com/announce
@@ -1330,7 +1330,6 @@ https://chdbits.xyz/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
 https://cny.fan/announce
-https://cny.fan:443/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -1406,6 +1405,7 @@ https://t2.pow7.com/announce
 https://t3.leech.ie/announce
 https://thetracker.org:80/announce
 https://threads.canofsocks.com/announce
+https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent.gresille.org/announce
