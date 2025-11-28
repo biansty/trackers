@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-27T23:14:36.393116Z
+# generated at: 2025-11-28T01:10:14.023064Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -901,7 +901,6 @@ http://servandroidkino.ru:80/announce
 http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce
@@ -1008,7 +1007,6 @@ http://tracker.btcake.com/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
-http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de/announce
 http://tracker.ccp.ovh:6969/announce
@@ -1018,7 +1016,6 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
 http://tracker.cutie.dating:80/announce
@@ -1408,6 +1405,7 @@ https://t2.pow7.com/announce
 https://t3.leech.ie/announce
 https://thetracker.org:80/announce
 https://threads.canofsocks.com/announce
+https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent.gresille.org/announce
@@ -1478,7 +1476,6 @@ https://tracker.bt4g.com:443/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.carpt.net/announce
 https://tracker.cinefiles.info/announce
 https://tracker.cloudit.top/announce
@@ -1527,6 +1524,7 @@ https://tracker.home.kmzs123.cn:4443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
+https://tracker.iochimari.moe:443/announce
 https://tracker.ipfsscan.io/announce
 https://tracker.ipv6tracker.ru:80/announce
 https://tracker.iriseden.fr/announce
@@ -1583,6 +1581,7 @@ https://tracker.ptchdbits.co/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
+https://tracker.qingwa.pro:443/announce
 https://tracker.quix.cf/announce
 https://tracker.rainbowisland.co/announce
 https://tracker.renfei.net/announce
