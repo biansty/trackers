@@ -1,12 +1,11 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-11-30T23:14:08.667971Z
+# generated at: 2025-12-01T01:25:23.489820Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0x7c.space:7070/announce
@@ -842,6 +841,7 @@ http://open.touki.ru/announce
 http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
+http://open.trackerlist.xyz:80/announce
 http://open.va.wiki:900/announce
 http://openbittorrent.com/announce
 http://opentracker.acgnx.com:6869/announce
@@ -882,7 +882,6 @@ http://retracker.ohys.net/announce
 http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru/announce
-http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
@@ -896,8 +895,8 @@ http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
-http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
+http://servandroidkino.ru:80/announce
 http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
@@ -976,7 +975,6 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
@@ -1006,6 +1004,7 @@ http://tracker.btcake.com/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
+http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de/announce
 http://tracker.ccp.ovh:6969/announce
@@ -1170,7 +1169,6 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
 http://tracker01.loveapp.com:6789/announce
@@ -1405,6 +1403,7 @@ https://t2.pow7.com/announce
 https://t3.leech.ie/announce
 https://thetracker.org:80/announce
 https://threads.canofsocks.com/announce
+https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent.gresille.org/announce
@@ -1420,9 +1419,7 @@ https://torrust.canofsocks.com/announce
 https://tp.m-team.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
-https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
-https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.aag.moe/announce
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
@@ -1474,7 +1471,6 @@ https://tracker.bt4g.com:443/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.carpt.net/announce
 https://tracker.cinefiles.info/announce
 https://tracker.cloudit.top/announce
@@ -1513,6 +1509,7 @@ https://tracker.ghostchu-services.top/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.grepler.com:6969/announce
 https://tracker.guguan.dpdns.org/announce
+https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg/announce
 https://tracker.h3o2.me/announce
 https://tracker.hama3.net/announce
