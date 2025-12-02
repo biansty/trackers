@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-12-01T23:15:20.382021Z
+# generated at: 2025-12-02T01:13:43.089341Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -895,11 +895,13 @@ http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://servandroidkino.ru:80/announce
 http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce
@@ -965,7 +967,6 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
-http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -999,12 +1000,12 @@ http://tracker.blazing.de:6969/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
-http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 http://tracker.ccc.de/announce
 http://tracker.ccp.ovh:6969/announce
@@ -1014,7 +1015,6 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
 http://tracker.cutie.dating:80/announce
@@ -1215,7 +1215,6 @@ http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
 http://www.all4nothin.net/announce
-http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce
@@ -1403,7 +1402,6 @@ https://t2.pow7.com/announce
 https://t3.leech.ie/announce
 https://thetracker.org:80/announce
 https://threads.canofsocks.com/announce
-https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent.gresille.org/announce
@@ -1419,6 +1417,7 @@ https://torrust.canofsocks.com/announce
 https://tp.m-team.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
 https://tr.aag.moe/announce
 https://tr.abiir.top/announce
