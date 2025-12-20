@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-12-19T23:15:28.853545Z
+# generated at: 2025-12-20T01:12:32.043888Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -929,11 +929,9 @@ http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
-http://servandroidkino.ru:80/announce
 http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce
@@ -1001,6 +999,7 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
+http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -1010,6 +1009,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
@@ -1051,7 +1051,6 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
-http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
 http://tracker.cutie.dating:80/announce
@@ -1467,7 +1466,9 @@ https://torrust.canofsocks.com/announce
 https://tp.m-team.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.aag.moe/announce
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
