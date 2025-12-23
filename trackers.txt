@@ -1,11 +1,12 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-12-22T23:15:36.945336Z
+# generated at: 2025-12-23T01:16:14.713261Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
+http://0123456789nonexistent.com:80/announce
 http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://0x7c.space:7070/announce
@@ -999,6 +1000,7 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
+http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
@@ -1033,7 +1035,6 @@ http://tracker.blazing.de:6969/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btsync.gq:233/announce
@@ -1467,7 +1468,6 @@ https://tr.aag.moe/announce
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
-https://tr.abir.ga:443/announce
 https://tr.abirxo.cf/announce
 https://tr.bangumi.moe:6969/announce
 https://tr.bangumi.moe:9696/announce
@@ -1513,6 +1513,7 @@ https://tracker.bt4g.com:443/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.carpt.net/announce
 https://tracker.cinefiles.info/announce
 https://tracker.cloudit.top/announce
