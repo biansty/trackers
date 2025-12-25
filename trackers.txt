@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-12-25T17:14:24.497876Z
+# generated at: 2025-12-25T18:22:58.328503Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -327,6 +327,7 @@ http://200.161.254.194:6969/announce
 http://200.161.254.20:6969/announce
 http://200.168.117.55:6969/announce
 http://200.170.109.125:6969/announce
+http://200.170.109.148:6969/announce
 http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
@@ -1955,6 +1956,7 @@ udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
+udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
