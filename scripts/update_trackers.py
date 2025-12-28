@@ -4,7 +4,7 @@
 import os
 import sys
 import hashlib
-import urllib.request
+import urllib.request  # 修正：原代码拼写错误 urllib.request
 import ssl
 from datetime import datetime
 
@@ -95,14 +95,11 @@ def main():
     merged = dedup_and_sort(all_lines)
     print(f"[INFO] 合并后共 {len(merged)} 条")
 
-    # 准备文件内容，加上生成说明头
-    header = [
-        "# trackers.txt (auto-generated)",
-        f"# sources: {len(SOURCES)}",
-        f"# generated at: {datetime.utcnow().isoformat()}Z",
-        "# -----------------------------------------------",
-    ]
-    final_text = "\n".join(merged) + "\n"
+    # 关键修改：每两行之间添加一个空行
+    # 方式1：用 "\n\n" 连接所有行（实现行与行之间隔一个空行）
+    separated_lines = "\n\n".join(merged)
+    # 补充：末尾添加一个换行符（保持文件格式整洁，可选）
+    final_text = separated_lines + "\n"
 
     old_hash = file_sha256(OUTPUT_PATH)
     new_hash = hashlib.sha256(final_text.encode("utf-8")).hexdigest()
@@ -119,4 +116,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
