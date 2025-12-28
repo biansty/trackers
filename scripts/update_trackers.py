@@ -102,7 +102,7 @@ def main():
         f"# generated at: {datetime.utcnow().isoformat()}Z",
         "# -----------------------------------------------",
     ]
-    final_text = "\n".join(header + merged) + "\n"
+    final_text = "\n".join(merged) + "\n"
 
     old_hash = file_sha256(OUTPUT_PATH)
     new_hash = hashlib.sha256(final_text.encode("utf-8")).hexdigest()
@@ -119,3 +119,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
