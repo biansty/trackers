@@ -1,6 +1,6 @@
 # trackers.txt (auto-generated)
 # sources: 5
-# generated at: 2025-12-27T23:15:21.547954Z
+# generated at: 2025-12-28T01:24:51.201442Z
 # -----------------------------------------------
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
@@ -1014,6 +1014,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
@@ -1648,7 +1649,6 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.yoshi210.com:6969/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.com:443/announce
