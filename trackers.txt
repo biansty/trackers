@@ -1932,8 +1932,6 @@ http://tk.cubicview.site/announce
 
 http://tk.greedland.net/announce
 
-http://tk.greedland.net:80/announce
-
 http://tk.leechshield.link/announce
 
 http://tk.nvacg.org:3333/announce
@@ -2023,8 +2021,6 @@ http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 
 http://tracker-zhuqiy.dgj055.icu/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.1048576.cn:17272/announce
 
@@ -3093,8 +3089,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
