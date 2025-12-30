@@ -430,6 +430,8 @@ http://179.175.247.60:6969/announce
 
 http://179.175.247.98:6969/announce
 
+http://179.98.254.109:6969/announce
+
 http://179.98.254.138:6969/announce
 
 http://179.98.254.201:6969/announce
@@ -3684,6 +3686,8 @@ udp://179.175.247.60:6969/announce
 
 udp://179.43.155.30:6969/announce
 
+udp://179.98.254.109:6969/announce
+
 udp://179.98.254.138:6969/announce
 
 udp://179.98.254.201:6969/announce
@@ -5133,6 +5137,8 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://mixfiend.com:6969/announce
+
+udp://montreal.nyap2p.com:8080/announce
 
 udp://moonburrow.club:6969/announce
 
