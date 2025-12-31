@@ -2194,6 +2194,8 @@ http://tracker.ipv6tracker.org/announce
 
 http://tracker.ipv6tracker.ru/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.iro.moe/announce
 
 http://tracker.ismaarino.com:8880/announce
@@ -2939,6 +2941,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
