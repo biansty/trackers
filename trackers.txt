@@ -3034,6 +3034,8 @@ https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.carpt.net/announce
 
 https://tracker.cinefiles.info/announce
@@ -3109,6 +3111,8 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.grepler.com:6969/announce
 
 https://tracker.guguan.dpdns.org/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.guguan.us.kg/announce
 
