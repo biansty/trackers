@@ -3000,8 +3000,6 @@ https://tracker.acgnx.se/announce
 
 https://tracker.alaskantf.com/announce
 
-https://tracker.alaskantf.com:443/announce
-
 https://tracker.aletorrenty.pl:2710/announce
 
 https://tracker.amelia.fun/announce
@@ -3033,8 +3031,6 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3271,6 +3267,8 @@ https://tracker.skyts.net:6969/announce
 https://tracker.sloppyta.co/announce
 
 https://tracker.soshifanclub.com/announce
+
+https://tracker.soshifanclub.com:443/announce
 
 https://tracker.srv00.com/announce
 
