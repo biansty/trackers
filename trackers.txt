@@ -4894,6 +4894,8 @@ udp://cn.pcfreetime.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
+udp://colivioo.com:6969/announce
+
 udp://commento.getblog.cn:6969/announce
 
 udp://concen.org:6969/announce
