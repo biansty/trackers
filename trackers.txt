@@ -530,6 +530,8 @@ http://187.57.130.147:6969/announce
 
 http://187.57.131.202:6969/announce
 
+http://187.57.132.20:6969/announce
+
 http://187.57.132.246:6969/announce
 
 http://187.57.14.62:6969/announce
@@ -3802,6 +3804,8 @@ udp://187.57.130.147:6969/announce
 
 udp://187.57.131.202:6969/announce
 
+udp://187.57.132.20:6969/announce
+
 udp://187.57.132.246:6969/announce
 
 udp://187.57.229.141:6969/announce
@@ -6049,6 +6053,8 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://www.theoccult.bz:3010/announce
 
 udp://www.torrent.eu.org:451/announce
 
