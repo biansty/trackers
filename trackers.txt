@@ -5678,6 +5678,8 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.istole.it:80/announce
 
+udp://tracker.ixuexi.click:6969/announce
+
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
