@@ -2016,6 +2016,8 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -3096,6 +3098,8 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3263,8 +3267,6 @@ https://tracker.skyts.net:6969/announce
 https://tracker.sloppyta.co/announce
 
 https://tracker.soshifanclub.com/announce
-
-https://tracker.soshifanclub.com:443/announce
 
 https://tracker.srv00.com/announce
 
