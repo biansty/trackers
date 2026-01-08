@@ -488,6 +488,8 @@ http://185.83.215.123:6969/announce
 
 http://186.10.170.119:1337/announce
 
+http://186.10.170.186:1337/announce
+
 http://186.10.170.23:1337/announce
 
 http://186.10.170.30:1337/announce
