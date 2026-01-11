@@ -6,8 +6,6 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1896,8 +1894,6 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -2125,8 +2121,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2972,8 +2966,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3061,6 +3053,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -5285,6 +5279,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
+
+udp://opentracker.xyz:443/announce
 
 udp://opentrackr.org:1337/announce
 
