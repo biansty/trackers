@@ -2048,8 +2048,6 @@ http://tracker-udp.gbitt.info/announce
 
 http://tracker-zhuqiy.dgj055.icu/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 http://tracker.1048576.cn:17272/announce
 
 http://tracker.23794.top:6969/announce
@@ -2940,6 +2938,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3405,6 +3405,8 @@ https://yolo.liberbear.com/announce
 https://yolo.liberbear.com:80/announce
 
 https://yuki.bt.bontal.net/announce
+
+https://yuki.bt.bontal.net:443/announce
 
 https://zer0day.000webhostapp.com/announce
 
