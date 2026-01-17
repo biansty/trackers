@@ -1864,6 +1864,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2107,6 +2109,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2437,8 +2441,6 @@ http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zhuqiy.com/announce
-
-http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -2892,8 +2894,6 @@ https://sparkle.ghostchu-services.top/announce
 
 https://t.213891.xyz/announce
 
-https://t.213891.xyz:443/announce
-
 https://t.audiences.me/announce
 
 https://t.btcland.xyz/announce
@@ -3028,6 +3028,8 @@ https://tracker.acgnx.se/announce
 
 https://tracker.alaskantf.com/announce
 
+https://tracker.alaskantf.com:443/announce
+
 https://tracker.aletorrenty.pl:2710/announce
 
 https://tracker.amelia.fun/announce
@@ -3061,6 +3063,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3332,8 +3336,6 @@ https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
 
-https://tracker.zhuqiy.com:443/announce
-
 https://tracker.zhuqiy.top/announce
 
 https://tracker.zhuque.in/announce
@@ -3405,8 +3407,6 @@ https://yolo.liberbear.com/announce
 https://yolo.liberbear.com:80/announce
 
 https://yuki.bt.bontal.net/announce
-
-https://yuki.bt.bontal.net:443/announce
 
 https://zer0day.000webhostapp.com/announce
 
