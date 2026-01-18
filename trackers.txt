@@ -1864,8 +1864,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1893,6 +1891,8 @@ http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
+
+http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn80/announce
 
@@ -2034,8 +2034,6 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2109,8 +2107,6 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2219,6 +2215,8 @@ http://tracker.ilibr.org/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2441,6 +2439,8 @@ http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zhuqiy.com/announce
+
+http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -2894,6 +2894,8 @@ https://sparkle.ghostchu-services.top/announce
 
 https://t.213891.xyz/announce
 
+https://t.213891.xyz:443/announce
+
 https://t.audiences.me/announce
 
 https://t.btcland.xyz/announce
@@ -2970,8 +2972,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -2991,8 +2991,6 @@ https://tr.kxmp.cf/announce
 https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
-
-https://tr.nyacat.pw:443/announce
 
 https://tr.qfruiti.com/announce
 
@@ -3054,8 +3052,6 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3063,8 +3059,6 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3129,8 +3123,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3224,6 +3216,8 @@ https://tracker.m-team.cc/announce
 
 https://tracker.madtia.cc/announce
 
+https://tracker.maya.no.eu.org:443/announce
+
 https://tracker.mg64.net:6881/announce
 
 https://tracker.midnightprogrammer.net/announce
@@ -3275,8 +3269,6 @@ https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 
 https://tracker.qingwa.pro/announce
-
-https://tracker.qingwa.pro:443/announce
 
 https://tracker.quix.cf/announce
 
@@ -3335,6 +3327,8 @@ https://tracker.yemekyedim.com/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
