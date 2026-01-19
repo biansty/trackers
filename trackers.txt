@@ -1894,8 +1894,6 @@ http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
 
-http://servandroidkino.ru:80/announce
-
 http://share.camoe.cn80/announce
 
 http://share.camoe.cn:8080/announce
@@ -2217,8 +2215,6 @@ http://tracker.ilibr.org/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2962,6 +2958,8 @@ https://tp.m-team.cc/announce
 
 https://tr-rh-zhuqiy.dgj055.icu/announce
 
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
 https://tr-zhuqiy-1.dgj055.icu/announce
 
 https://tr-zhuqiy-2.dgj055.icu/announce
@@ -2973,6 +2971,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3053,6 +3053,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
@@ -3219,8 +3221,6 @@ https://tracker.m-team.cc/announce
 https://tracker.madtia.cc/announce
 
 https://tracker.maya.no.eu.org/announce
-
-https://tracker.maya.no.eu.org:443/announce
 
 https://tracker.mg64.net:6881/announce
 
