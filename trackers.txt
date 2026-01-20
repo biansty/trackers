@@ -2034,6 +2034,8 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2129,8 +2131,6 @@ http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
 
 http://tracker.cutie.dating/announce
-
-http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -2441,6 +2441,8 @@ http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -2958,8 +2960,6 @@ https://tp.m-team.cc/announce
 
 https://tr-rh-zhuqiy.dgj055.icu/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu/announce
 
 https://tr-zhuqiy-2.dgj055.icu/announce
@@ -2971,8 +2971,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -2993,6 +2991,8 @@ https://tr.kxmp.cf/announce
 https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://tr.qfruiti.com/announce
 
@@ -3076,8 +3076,6 @@ https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
 
-https://tracker.cutie.dating:443/announce
-
 https://tracker.cybar.xyz/announce
 
 https://tracker.cyber-hub.net/announce
@@ -3127,6 +3125,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
