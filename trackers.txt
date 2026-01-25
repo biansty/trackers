@@ -2972,6 +2972,8 @@ https://tr-zhuqiy-1.dgj055.icu/announce
 
 https://tr-zhuqiy-2.dgj055.icu/announce
 
+https://tr-zhuqiy-2.dgj055.icu:443/announce
+
 https://tr.aag.moe/announce
 
 https://tr.abiir.top/announce
@@ -2979,8 +2981,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3074,6 +3074,8 @@ https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.carpt.net/announce
 
 https://tracker.cinefiles.info/announce
@@ -3135,6 +3137,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
