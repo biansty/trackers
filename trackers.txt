@@ -2052,8 +2052,6 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:80/announce
@@ -2485,8 +2483,6 @@ http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com/announce
 
 http://tracker2.dler.org/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.istole.it:60500/announce
 
