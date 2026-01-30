@@ -5972,6 +5972,8 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
+udp://tracker.umunu.ru:6969/announce
+
 udp://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker.uw0.xyz:6969/announce
