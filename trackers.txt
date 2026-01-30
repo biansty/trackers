@@ -2968,6 +2968,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3031,6 +3033,8 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tr2.trkb.ru/announce
 
