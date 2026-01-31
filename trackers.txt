@@ -2080,6 +2080,8 @@ http://tracker.acgnx.se/announce
 
 http://tracker.aibt.xyz:900/announce
 
+http://tracker.alaskantf.com:6969/announce
+
 http://tracker.aletorrenty.pl:2710/announce
 
 http://tracker.ali213.net00/announce
@@ -3177,6 +3179,8 @@ https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
 
 https://tracker.iochimari.moe:443/announce
+
+https://tracker.iperson.xyz/announce
 
 https://tracker.ipfsscan.io/announce
 
