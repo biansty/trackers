@@ -1940,15 +1940,11 @@ http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
 
-http://servandroidkino.ru:80/announce
-
 http://share.camoe.cn80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2084,6 +2080,8 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2149,8 +2147,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2257,8 +2253,6 @@ http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 
 http://tracker.guguan.000.pe/announce
-
-http://tracker.guguan.000.pe:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
@@ -2994,6 +2988,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3023,8 +3019,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3059,8 +3053,6 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tr2.trkb.ru/announce
 
@@ -3178,6 +3170,8 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3285,8 +3279,6 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
