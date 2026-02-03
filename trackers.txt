@@ -3058,6 +3058,8 @@ https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tr2.trkb.ru/announce
 
 https://track.solcloud.eu/announce
