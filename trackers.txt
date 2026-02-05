@@ -540,6 +540,8 @@ http://187.11.73.213:6969/announce
 
 http://187.11.74.138:6969/announce
 
+http://187.11.75.160:6969/announce
+
 http://187.11.75.17:6969/announce
 
 http://187.11.75.196:6969/announce
