@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1940,6 +1942,8 @@ http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
 
+http://servandroidkino.ru:80/announce
+
 http://share.camoe.cn80/announce
 
 http://share.camoe.cn:8080/announce
@@ -2490,8 +2494,6 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2936,6 +2938,8 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
+https://shahidrazi.online:443/announce
+
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3020,6 +3024,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3053,8 +3059,6 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tr2.trkb.ru/announce
 
@@ -3171,8 +3175,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
