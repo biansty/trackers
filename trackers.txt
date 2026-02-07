@@ -1950,8 +1950,6 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -2153,8 +2151,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2996,6 +2992,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3025,8 +3023,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3105,6 +3101,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
@@ -3211,6 +3209,8 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
+
+https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
