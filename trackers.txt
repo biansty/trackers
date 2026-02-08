@@ -3062,6 +3062,8 @@ https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tr2.trkb.ru/announce
 
 https://track.solcloud.eu/announce
@@ -3115,6 +3117,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3213,8 +3217,6 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
