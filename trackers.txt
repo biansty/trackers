@@ -1838,6 +1838,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1922,6 +1924,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1955,6 +1959,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2185,6 +2191,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2834,6 +2842,8 @@ https://chihaya.de/announce
 
 https://cny.fan/announce
 
+https://cny.fan:443/announce
+
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3120,8 +3130,6 @@ https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.carpt.net/announce
 
 https://tracker.cinefiles.info/announce
@@ -3220,6 +3228,8 @@ https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
 
+https://tracker.iperson.xyz:443/announce
+
 https://tracker.ipfsscan.io/announce
 
 https://tracker.ipv6tracker.ru:80/announce
@@ -3291,8 +3301,6 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
