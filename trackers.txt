@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1842,8 +1844,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1928,8 +1928,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1957,6 +1955,8 @@ http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
+
+http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn80/announce
 
@@ -2100,8 +2100,6 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2195,8 +2193,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3128,6 +3124,8 @@ https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
+https://tracker.bug38.com:443/announce
+
 https://tracker.bulao.ren/announce
 
 https://tracker.calculate.ru:6969/announce
@@ -3195,8 +3193,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
