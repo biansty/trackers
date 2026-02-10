@@ -5918,6 +5918,8 @@ udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.mg64.net:2710/announce
 
+udp://tracker.mg64.net:6881/announce
+
 udp://tracker.mg64.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
