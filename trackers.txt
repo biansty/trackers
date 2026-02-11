@@ -480,6 +480,8 @@ http://180.113.224.97:6969/announce
 
 http://180.113.227.211:6969/announce
 
+http://180.113.232.20:6969/announce
+
 http://180.114.103.80:6969/announce
 
 http://180.97.219.76:8070/announce
@@ -649,6 +651,8 @@ http://189.79.13.107:6969/announce
 http://189.79.13.111:6969/announce
 
 http://191.23.121.129:6969/announce
+
+http://191.23.62.111:6969/announce
 
 http://191.23.62.147:6969/announce
 
@@ -4009,6 +4013,8 @@ udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
 
 udp://191.23.121.129:6969/announce
+
+udp://191.23.62.111:6969/announce
 
 udp://191.23.62.147:6969/announce
 
