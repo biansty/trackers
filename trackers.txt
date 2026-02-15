@@ -2812,6 +2812,8 @@ https://api.ipv4online.uk/announce
 
 https://atrack.pow7.com/announce
 
+https://bdremux.club/announce
+
 https://bittorrent.gongt.net/announce
 
 https://bittorrent.service.gongt.me:59443/announce
