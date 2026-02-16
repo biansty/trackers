@@ -4488,6 +4488,8 @@ udp://44.30.4.3:6969/announce
 
 udp://44.30.4.4:6969/announce
 
+udp://44.30.4.70:6969/announce
+
 udp://45.13.119.213:6969/announce
 
 udp://45.130.21.69:6969/announce
@@ -5701,6 +5703,8 @@ udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://torrentvpn.club:6990/announce
 
 udp://touhou.kawaiiarts.com:6969/announce
 
