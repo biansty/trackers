@@ -3400,6 +3400,8 @@ https://tracker.tfile.me/announce
 
 https://tracker.tiny-vps.com:6969/announce
 
+https://tracker.torrentbd.net/announce
+
 https://tracker.torrentsnows.com/announce
 
 https://tracker.totheglory.im/announce
