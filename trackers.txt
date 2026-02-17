@@ -1942,6 +1942,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1968,7 +1970,11 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
+
+http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn80/announce
 
@@ -2112,8 +2118,6 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2180,6 +2184,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2189,6 +2195,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2302,6 +2310,8 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -2349,6 +2359,8 @@ http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
 
 http://tracker.memelords.xyz/announce
+
+http://tracker.memelords.xyz:80/announce
 
 http://tracker.merded.xyz00/announce
 
@@ -3144,6 +3156,8 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3206,15 +3220,11 @@ https://tracker.flashtorrents.org:6969/announce
 
 https://tracker.foreverpirates.co/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.fr.eu.org/announce
 
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3249,6 +3259,8 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
+
+https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
@@ -3338,6 +3350,8 @@ https://tracker.nitrix.me/announce
 
 https://tracker.novy.vip/announce
 
+https://tracker.novy.vip:443/announce
+
 https://tracker.nyaa.tk/announce
 
 https://tracker.opendev.cloud/announce
@@ -3366,9 +3380,13 @@ https://tracker.publictorrent.net/announce
 
 https://tracker.puvvadi.net/announce
 
+https://tracker.puvvadi.net:443/announce
+
 https://tracker.qingwa.pro/announce
 
 https://tracker.qingwapt.org/announce
+
+https://tracker.qingwapt.org:443/announce
 
 https://tracker.quix.cf/announce
 
@@ -5910,6 +5928,8 @@ udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
+udp://tracker.huadongblower.xyz:8080/announce
+
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -6259,6 +6279,8 @@ udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://uabits.today:6990/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
