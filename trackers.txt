@@ -1758,6 +1758,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2120,6 +2122,8 @@ http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2185,8 +2189,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -3228,6 +3230,8 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3382,8 +3386,6 @@ https://tracker.publictorrent.net/announce
 
 https://tracker.puvvadi.net/announce
 
-https://tracker.puvvadi.net:443/announce
-
 https://tracker.qingwa.pro/announce
 
 https://tracker.qingwapt.org/announce
@@ -3431,8 +3433,6 @@ https://tracker.tvgc.win/announce
 https://tracker.tvunderground.org.ru:3218/announce
 
 https://tracker.uraniumhexafluori.de/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.vectahosting.eu/announce
 
