@@ -6,8 +6,6 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2222,6 +2220,8 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cubicview.site/announce
 
 http://tracker.cutie.dating/announce
@@ -3376,8 +3376,6 @@ https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.projectk.org/announce
 
 https://tracker.ptchdbits.co/announce
@@ -3387,6 +3385,8 @@ https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 
 https://tracker.puvvadi.net/announce
+
+https://tracker.puvvadi.net:443/announce
 
 https://tracker.qingwa.pro/announce
 
