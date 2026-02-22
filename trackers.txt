@@ -3248,6 +3248,8 @@ https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
 
+https://tracker.iperson.xyz:443/announce
+
 https://tracker.ipfsscan.io/announce
 
 https://tracker.ipv6tracker.ru:80/announce
