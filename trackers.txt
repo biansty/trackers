@@ -1758,8 +1758,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -1946,8 +1944,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1975,6 +1971,8 @@ http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 
 http://servandroidkino.ru/announce
+
+http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn80/announce
 
@@ -2184,8 +2182,6 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2213,6 +2209,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3106,8 +3104,6 @@ https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tr2.trkb.ru/announce
 
 https://track.solcloud.eu/announce
@@ -3151,6 +3147,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
@@ -3258,8 +3256,6 @@ https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
 
-https://tracker.iperson.xyz:443/announce
-
 https://tracker.ipfsscan.io/announce
 
 https://tracker.ipv6tracker.ru:80/announce
@@ -3365,6 +3361,8 @@ https://tracker.parrotsec.org/announce
 https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.projectk.org/announce
 
