@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1860,8 +1862,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2184,6 +2184,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2211,8 +2213,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2355,8 +2355,6 @@ http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
 
 http://tracker.memelords.xyz/announce
-
-http://tracker.memelords.xyz:80/announce
 
 http://tracker.merded.xyz00/announce
 
@@ -3334,6 +3332,8 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
+https://tracker.moeking.me:443/announce
+
 https://tracker.monikadesign.uk/announce
 
 https://tracker.moxing.party:6969/announce
@@ -3345,8 +3345,6 @@ https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 
 https://tracker.novy.vip/announce
-
-https://tracker.novy.vip:443/announce
 
 https://tracker.nyaa.tk/announce
 
