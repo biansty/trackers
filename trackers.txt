@@ -1866,6 +1866,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1950,8 +1952,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1978,17 +1978,15 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru/announce
-
-http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -3116,6 +3114,8 @@ https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tr2.trkb.ru/announce
 
 https://track.solcloud.eu/announce
@@ -3267,8 +3267,6 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
