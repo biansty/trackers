@@ -714,6 +714,8 @@ http://194.87.70.68:2710/announce
 
 http://195.123.209.37:1337/announce
 
+http://195.123.209.40/announce
+
 http://198.251.84.144/announce
 
 http://1c.premierzal.ru:6969/announce
@@ -2378,6 +2380,8 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.moeking.me:6969/announce
 
+http://tracker.morian.icu:443/announce
+
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -2555,6 +2559,8 @@ http://tracker.zhuqiy.top/announce
 http://tracker01.loveapp.com:6789/announce
 
 http://tracker1.bt.moack.co.kr/announce
+
+http://tracker1.ctix.cn:443/announce
 
 http://tracker1.itzmx.com80/announce
 
@@ -3345,6 +3351,8 @@ https://tracker.moeking.me/announce
 https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
+
+https://tracker.morian.icu/announce
 
 https://tracker.moxing.party:6969/announce
 
