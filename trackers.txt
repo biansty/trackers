@@ -6,8 +6,6 @@ http://00.xxtor.com:443/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1768,8 +1766,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -1870,8 +1866,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1956,8 +1950,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1991,8 +1983,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2195,6 +2185,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2887,8 +2879,6 @@ https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
 
 https://cny.fan/announce
-
-https://cny.fan:443/announce
 
 https://danielcloud.ddns.net/announce
 
