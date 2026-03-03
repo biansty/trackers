@@ -210,6 +210,8 @@ http://13.115.115.32:6969/announce
 
 http://1337.abcvg.info/announce
 
+http://1337.abcvg.info:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://138.124.183.78:6969/announce
@@ -1624,6 +1626,8 @@ http://bz.tracker.bz/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://carapax.net:443/announce
+
 http://carbon-bonsai-621.appspot.com/announce
 
 http://ch3oh.ru:6969/announce
@@ -1996,6 +2000,8 @@ http://siambit.org/announce
 
 http://smurfsoft.com:6969/announce
 
+http://sparkle.ghostchu-services.top:443/announce
+
 http://speedtest.iperson.xyz:6969/announce
 
 http://sugoi.pomf.se/announce
@@ -2003,6 +2009,8 @@ http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
 
 http://t-backup.213891.xyz/announce
+
+http://t.213891.xyz:443/announce
 
 http://t.acg.rip:6699/announce
 
