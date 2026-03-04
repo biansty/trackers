@@ -3830,6 +3830,8 @@ udp://173.201.36.219:6969/announce
 
 udp://173.249.201.201:6969/announce
 
+udp://173.254.204.71:1096/announce
+
 udp://176.123.1.180:6969/announce
 
 udp://176.31.250.174:6969/announce
@@ -5419,6 +5421,8 @@ udp://leidenfro.st:6969/announce
 udp://li1406-230.members.linode.com:6969/announce
 
 udp://li2021-95.members.linode.com:6969/announce
+
+udp://lima-peru.subventas.com:443/announce
 
 udp://line-net.ru:6969/announce
 
