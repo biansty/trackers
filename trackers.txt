@@ -5714,6 +5714,8 @@ udp://t.nyaatracker.com:80/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://t.pldm.ml:6969/announce
+
 udp://t.publictracker.xyz:6969/announce
 
 udp://t.zerg.pw:1337/announce
