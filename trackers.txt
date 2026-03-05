@@ -2952,6 +2952,8 @@ https://hcbt.pp.ua/announce
 
 https://hdpt.xyz/announce
 
+https://http1.torrust-tracker-demo.com/announce
+
 https://inferno.demonoid.is/announce
 
 https://ipv4.rer.lol:2710/announce
