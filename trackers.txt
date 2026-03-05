@@ -3586,6 +3586,8 @@ udp://10.rarbg.com/announce
 
 udp://10.rarbg.com:6969/announce
 
+udp://101.99.91.160:6969/announce
+
 udp://101.99.94.187:6969/announce
 
 udp://103.122.21.50:6969/announce
