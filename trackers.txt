@@ -3126,8 +3126,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3280,8 +3278,6 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3315,8 +3311,6 @@ https://tracker.iochimari.moe/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
