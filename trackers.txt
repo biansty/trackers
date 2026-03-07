@@ -3126,6 +3126,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3277,6 +3279,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3493,6 +3497,8 @@ https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
 
 https://tracker.yggleak.top/announce
+
+https://tracker.yggleak.top:443/announce
 
 https://tracker.yoshi210.com:6969/announce
 
