@@ -2288,6 +2288,8 @@ http://tracker.etree.org:6969/announce
 
 http://tracker.ex.ua/announce
 
+http://tracker.exe.in.th:6969/announce
+
 http://tracker.fansub.id/announce
 
 http://tracker.fdn.fr:6969/announce
@@ -3403,6 +3405,8 @@ https://tracker.morian.icu/announce
 https://tracker.moxing.party:6969/announce
 
 https://tracker.nanoha.org/announce
+
+https://tracker.nekomi.cn/announce
 
 https://tracker.netmap.top:8443/announce
 
