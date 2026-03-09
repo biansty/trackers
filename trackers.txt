@@ -1976,6 +1976,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -1994,6 +1996,8 @@ http://rt.optizone.ru/announce
 
 http://rt.tace.ru/announce
 
+http://s1124554.ha012.t.mydomain.zone:80/announce
+
 http://s926723.ha016.t.mydomain.zone/announce
 
 http://saltwood.top:6969/announce
@@ -2009,6 +2013,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2247,6 +2253,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3100,8 +3108,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3131,8 +3137,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3215,8 +3219,6 @@ https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
@@ -3409,6 +3411,8 @@ https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
 
 https://tracker.nekomi.cn/announce
+
+https://tracker.nekomi.cn:443/announce
 
 https://tracker.netmap.top:8443/announce
 
