@@ -1996,9 +1996,15 @@ http://rt.tace.ru/announce
 
 http://s1124554.ha012.t.mydomain.zone/announce
 
+http://s1130638.ha016.t.mydomain.zone/announce
+
 http://s1130638.ha016.t.mydomain.zone:80/announce
 
+http://s1130639.ha009.t.mydomain.zone/announce
+
 http://s1130639.ha009.t.mydomain.zone:80/announce
+
+http://s1130642.ha014.t.mydomain.zone/announce
 
 http://s1130642.ha014.t.mydomain.zone:80/announce
 
@@ -3579,6 +3585,8 @@ https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 
 https://w.wwwww.wtf/announce
+
+https://wsad.run.place/announce
 
 https://wsad.run.place:443/announce
 
