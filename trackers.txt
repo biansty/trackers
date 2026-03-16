@@ -2006,8 +2006,6 @@ http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://s1130642.ha014.t.mydomain.zone/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
-
 http://s926723.ha016.t.mydomain.zone/announce
 
 http://saltwood.top:6969/announce
@@ -3302,8 +3300,6 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3334,11 +3330,7 @@ https://tracker.internetwarriors.net:1337/announce
 
 https://tracker.iochimari.moe/announce
 
-https://tracker.iochimari.moe:443/announce
-
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
