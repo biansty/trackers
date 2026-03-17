@@ -160,6 +160,8 @@ http://123.245.62.21:6969/announce
 
 http://123.245.62.37:6969/announce
 
+http://123.245.62.39:6969/announce
+
 http://123.245.62.3:6969/announce
 
 http://123.245.62.41:6969/announce
@@ -2948,6 +2950,8 @@ https://cny.fan/announce
 
 https://cny.fan:443/announce
 
+https://colibri.parrot.run/announce
+
 https://colibri.parrot.run:443/announce
 
 https://danielcloud.ddns.net/announce
@@ -3581,6 +3585,8 @@ https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 
 https://w.wwwww.wtf/announce
+
+https://wolf.parrot.run/announce
 
 https://wolf.parrot.run:443/announce
 
