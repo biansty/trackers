@@ -5766,6 +5766,8 @@ udp://t.zerg.pw:6969/announce
 
 udp://t1.chfs.ch:6969/announce
 
+udp://t1.pow7.com:6969/announce
+
 udp://t2.leech.ie:1337/announce
 
 udp://t2.pow7.com:6969/announce
@@ -6427,6 +6429,8 @@ udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 
 udp://www.nartlof.com.br:6969/announce
+
+udp://www.nartlof.com:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
