@@ -4,6 +4,8 @@ http://00.mercax.com:443/announce
 
 http://00.xxtor.com:443/announce
 
+http://004430.xyz/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -1498,6 +1500,8 @@ http://atrack.pow7.com/announce
 
 http://baibako.tv/announce
 
+http://bdremux.club/announce
+
 http://big-boss-tracker.net/announce
 
 http://bigfoot1942.sektori.org:6969/announce
@@ -2273,6 +2277,8 @@ http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
 
 http://tracker.cubicview.site/announce
+
+http://tracker.cubonegro.org/announce
 
 http://tracker.cutie.dating/announce
 
