@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
+http://004430.xyz:80/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -1796,6 +1798,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -1900,8 +1904,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1988,6 +1990,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2025,6 +2029,8 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
+
+http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2246,6 +2252,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2255,8 +2263,6 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2276,9 +2282,13 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
+
+http://tracker.cubonegro.org:80/announce
 
 http://tracker.cutie.dating/announce
 
@@ -2375,8 +2385,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2966,8 +2974,6 @@ https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3140,6 +3146,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3169,6 +3177,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3354,6 +3364,8 @@ https://tracker.internetwarriors.net:1337/announce
 
 https://tracker.iochimari.moe/announce
 
+https://tracker.iochimari.moe:443/announce
+
 https://tracker.iperson.xyz/announce
 
 https://tracker.ipfsscan.io/announce
@@ -3431,6 +3443,8 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
+
+https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
@@ -3607,6 +3621,8 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
+
+https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
