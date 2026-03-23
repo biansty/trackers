@@ -6,8 +6,6 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
-http://004430.xyz:80/announce
-
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -1632,6 +1630,8 @@ http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv/announce
 
+http://bughome.de:2832/announce
+
 http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -1799,8 +1799,6 @@ http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
 
 http://jvavav.com/announce
-
-http://jvavav.com:80/announce
 
 http://kamikazee.duckdns.org:7777/announce
 
@@ -2024,8 +2022,6 @@ http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://s1130642.ha014.t.mydomain.zone/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
-
 http://s926723.ha016.t.mydomain.zone/announce
 
 http://saltwood.top:6969/announce
@@ -2033,8 +2029,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2256,8 +2250,6 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2286,13 +2278,9 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
-http://tracker.corpscorp.online:80/announce
-
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
-
-http://tracker.cubonegro.org:80/announce
 
 http://tracker.cutie.dating/announce
 
@@ -2389,6 +2377,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2708,6 +2698,8 @@ http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://vps-c1adea63.vps.ovh.net:6969/announce
+
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://vps02.net.orel.ru/announce
@@ -2813,8 +2805,6 @@ https://00.mercax.com/announce
 https://00.xxtor.com/announce
 
 https://004430.xyz/announce
-
-https://004430.xyz:443/announce
 
 https://0d.kebhana.mx/announce
 
@@ -3370,8 +3360,6 @@ https://tracker.internetwarriors.net:1337/announce
 
 https://tracker.iochimari.moe/announce
 
-https://tracker.iochimari.moe:443/announce
-
 https://tracker.iperson.xyz/announce
 
 https://tracker.ipfsscan.io/announce
@@ -3457,6 +3445,8 @@ https://tracker.monikadesign.uk/announce
 https://tracker.morian.icu/announce
 
 https://tracker.moxing.party:6969/announce
+
+https://tracker.mrhei.tech:666/announce
 
 https://tracker.nanoha.org/announce
 
@@ -3627,8 +3617,6 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
-
-https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
