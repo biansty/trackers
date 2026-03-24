@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
+http://004430.xyz:80/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -1908,6 +1910,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -1994,8 +1998,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2023,6 +2025,8 @@ http://s1130639.ha009.t.mydomain.zone/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://s1130642.ha014.t.mydomain.zone/announce
+
+http://s1130642.ha014.t.mydomain.zone:80/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
 
@@ -2284,6 +2288,8 @@ http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
 
+http://tracker.cubonegro.org:80/announce
+
 http://tracker.cutie.dating/announce
 
 http://tracker.darkness.services:6969/announce
@@ -2379,8 +2385,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2620,8 +2624,6 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2808,6 +2810,8 @@ https://00.xxtor.com/announce
 
 https://004430.xyz/announce
 
+https://004430.xyz:443/announce
+
 https://0d.kebhana.mx/announce
 
 https://1.tracker.eu.org/announce
@@ -2971,6 +2975,8 @@ https://cny.fan/announce
 https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
+
+https://colibri.parrot.run:443/announce
 
 https://danielcloud.ddns.net/announce
 
@@ -3330,8 +3336,6 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3363,6 +3367,8 @@ https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
 
 https://tracker.iperson.xyz/announce
+
+https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
