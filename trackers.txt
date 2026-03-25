@@ -1910,8 +1910,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -3338,6 +3336,8 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3550,8 +3550,6 @@ https://tracker.vectahosting.eu/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
-https://tracker.vectahosting.eu:443/announce
-
 https://tracker.vectahosting.eu:8443/announce
 
 https://tracker.wsaoa.eu.org/announce
@@ -3627,6 +3625,8 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
+
+https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
