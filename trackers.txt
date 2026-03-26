@@ -2026,8 +2026,6 @@ http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://s1130642.ha014.t.mydomain.zone/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
-
 http://s926723.ha016.t.mydomain.zone/announce
 
 http://saltwood.top:6969/announce
@@ -2287,8 +2285,6 @@ http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
-
-http://tracker.cubonegro.org:80/announce
 
 http://tracker.cutie.dating/announce
 
@@ -2976,8 +2972,6 @@ https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3182,8 +3176,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3237,6 +3229,8 @@ https://tracker.3moredays.com/announce
 https://tracker.4.babico.name.tr/announce
 
 https://tracker.7471.top/announce
+
+https://tracker.7471.top:443/announce
 
 https://tracker.aburaya.live/announce
 
@@ -3371,8 +3365,6 @@ https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
 
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
