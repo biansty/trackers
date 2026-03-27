@@ -2024,8 +2024,6 @@ http://s1130638.ha016.t.mydomain.zone/announce
 
 http://s1130639.ha009.t.mydomain.zone/announce
 
-http://s1130639.ha009.t.mydomain.zone:80/announce
-
 http://s1130642.ha014.t.mydomain.zone/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
@@ -2043,6 +2041,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2974,6 +2974,8 @@ https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
+https://colibri.parrot.run:443/announce
+
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3178,6 +3180,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3273,6 +3277,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3620,9 +3626,9 @@ https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
 
-https://wsad.run.place/announce
+https://wolf.parrot.run:443/announce
 
-https://wsad.run.place:443/announce
+https://wsad.run.place/announce
 
 https://www.peckservers.com:9000/announce
 
