@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1914,6 +1916,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2024,6 +2028,8 @@ http://s1130638.ha016.t.mydomain.zone/announce
 
 http://s1130639.ha009.t.mydomain.zone/announce
 
+http://s1130639.ha009.t.mydomain.zone:80/announce
+
 http://s1130642.ha014.t.mydomain.zone/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
@@ -2041,8 +2047,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2255,6 +2259,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -3046,6 +3052,8 @@ https://open.touki.ru/announce
 
 https://opentracker.8880085.xyz/announce
 
+https://opentracker.8880085.xyz:443/announce
+
 https://opentracker.acgnx.se/announce
 
 https://opentracker.cc/announce
@@ -3625,8 +3633,6 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
-
-https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
