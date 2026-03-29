@@ -10,8 +10,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1918,8 +1916,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2030,9 +2026,9 @@ http://s1130638.ha016.t.mydomain.zone/announce
 
 http://s1130639.ha009.t.mydomain.zone/announce
 
-http://s1130639.ha009.t.mydomain.zone:80/announce
-
 http://s1130642.ha014.t.mydomain.zone/announce
+
+http://s1130642.ha014.t.mydomain.zone:80/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
 
@@ -2261,8 +2257,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2980,11 +2974,7 @@ https://chihaya.de/announce
 
 https://cny.fan/announce
 
-https://cny.fan:443/announce
-
 https://colibri.parrot.run/announce
-
-https://colibri.parrot.run:443/announce
 
 https://danielcloud.ddns.net/announce
 
@@ -3192,8 +3182,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3386,6 +3374,8 @@ https://tracker.iochimari.moe/announce
 
 https://tracker.iperson.xyz/announce
 
+https://tracker.iperson.xyz:443/announce
+
 https://tracker.ipfsscan.io/announce
 
 https://tracker.ipv6tracker.ru:80/announce
@@ -3461,8 +3451,6 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
@@ -3637,6 +3625,8 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
+
+https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
