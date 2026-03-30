@@ -1918,6 +1918,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2028,9 +2030,9 @@ http://s1130638.ha016.t.mydomain.zone/announce
 
 http://s1130639.ha009.t.mydomain.zone/announce
 
-http://s1130642.ha014.t.mydomain.zone/announce
+http://s1130639.ha009.t.mydomain.zone:80/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
+http://s1130642.ha014.t.mydomain.zone/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
 
@@ -2269,6 +2271,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2978,6 +2982,8 @@ https://cny.fan/announce
 
 https://colibri.parrot.run/announce
 
+https://colibri.parrot.run:443/announce
+
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3280,8 +3286,6 @@ https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.carpt.net/announce
 
 https://tracker.cinefiles.info/announce
@@ -3375,8 +3379,6 @@ https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
 
 https://tracker.iperson.xyz/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.ipfsscan.io/announce
 
@@ -3627,8 +3629,6 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
-
-https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
