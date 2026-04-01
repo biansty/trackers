@@ -6368,6 +6368,8 @@ udp://tracker.wellknownclub.net:8100/announce
 
 udp://tracker.wepzone.net:6969/announce
 
+udp://tracker.wildkat.net:6969/announce
+
 udp://tracker.x6c.co:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
