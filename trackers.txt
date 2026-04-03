@@ -5082,6 +5082,8 @@ udp://9.rarbg.me:2780/announce
 
 udp://9.rarbg.me:2790/announce
 
+udp://9.rarbg.me:2890/announce
+
 udp://9.rarbg.me:2930/announce
 
 udp://9.rarbg.me:2980/announce
