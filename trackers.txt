@@ -2030,8 +2030,6 @@ http://s1130638.ha016.t.mydomain.zone/announce
 
 http://s1130639.ha009.t.mydomain.zone/announce
 
-http://s1130639.ha009.t.mydomain.zone:80/announce
-
 http://s1130642.ha014.t.mydomain.zone/announce
 
 http://s926723.ha016.t.mydomain.zone/announce
@@ -2041,8 +2039,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2263,6 +2259,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2629,8 +2627,6 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
 
 http://tracker.zhuqiy.com:443/announce
-
-http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -3278,8 +3274,6 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3349,8 +3343,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3577,8 +3569,6 @@ https://tracker.yggleak.top:443/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
-
-https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
