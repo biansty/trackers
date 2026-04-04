@@ -2034,6 +2034,8 @@ http://s1130639.ha009.t.mydomain.zone/announce
 
 http://s1130642.ha014.t.mydomain.zone/announce
 
+http://s1130642.ha014.t.mydomain.zone:80/announce
+
 http://s926723.ha016.t.mydomain.zone/announce
 
 http://saltwood.top:6969/announce
@@ -2261,8 +2263,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2984,8 +2984,6 @@ https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3192,6 +3190,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3276,6 +3276,8 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3345,6 +3347,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3449,8 +3453,6 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
@@ -3629,6 +3631,8 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
+
+https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
