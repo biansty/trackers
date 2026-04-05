@@ -2636,6 +2636,8 @@ http://tracker.zhuqiy.com/announce
 
 http://tracker.zhuqiy.com:443/announce
 
+http://tracker.zhuqiy.com:80/announce
+
 http://tracker.zhuqiy.dgj055.icu/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
@@ -3302,6 +3304,8 @@ https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
 
+https://tracker.cutie.dating:443/announce
+
 https://tracker.cybar.xyz/announce
 
 https://tracker.cyber-hub.net/announce
@@ -3456,6 +3460,8 @@ https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.moeking.me/announce
 
 https://tracker.monikadesign.uk/announce
@@ -3566,6 +3572,8 @@ https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker.yggleak.top/announce
 
 https://tracker.yggleak.top:443/announce
@@ -3573,6 +3581,8 @@ https://tracker.yggleak.top:443/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
