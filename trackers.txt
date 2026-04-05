@@ -2066,6 +2066,8 @@ http://siambit.org/announce
 
 http://smurfsoft.com:6969/announce
 
+http://sound-park.world:443/announce
+
 http://sparkle.ghostchu-services.top:443/announce
 
 http://speedtest.iperson.xyz:6969/announce
