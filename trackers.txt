@@ -1638,6 +1638,8 @@ http://bt2.edwardk.info:4040/announce
 
 http://bt2.edwardk.info:6969/announce
 
+http://bt4.t-ru.org/announce
+
 http://btfile.sdo.com:6961/announce
 
 http://btracker.top:11451/announce
