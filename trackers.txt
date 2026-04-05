@@ -2188,6 +2188,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2297,8 +2299,6 @@ http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 
 http://tracker.cutie.dating/announce
-
-http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -3276,8 +3276,6 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3297,8 +3295,6 @@ https://tracker.coalition.space/announce
 https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.cybar.xyz/announce
 
@@ -3455,8 +3451,6 @@ https://tracker.mlsub.net/announce
 https://tracker.moeblog.cn/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
@@ -3631,8 +3625,6 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
-
-https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
@@ -5313,6 +5305,8 @@ udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
+
+udp://coeus.torrentonline.cc:42069/announce
 
 udp://colivioo.com:6969/announce
 
