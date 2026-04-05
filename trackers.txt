@@ -1604,6 +1604,8 @@ http://bt.rghost.net/announce
 
 http://bt.sc-ol.com:2710/announce
 
+http://bt.t-ru.org/ann/announce
+
 http://bt.ttk.artvid.ru:6969/announce
 
 http://bt.unionpeer.org:777/announce
