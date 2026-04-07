@@ -2494,6 +2494,8 @@ http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.nyaa.uk:6969/announce
 
+http://tracker.nyaa.vc:6969/announce
+
 http://tracker.nyaa2p.i2p/announce
 
 http://tracker.nyacat.pw:7000/announce
@@ -6313,6 +6315,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.supertracker.net:1337/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
