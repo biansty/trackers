@@ -2438,6 +2438,8 @@ http://tracker.ktxp.com:7070/announce
 
 http://tracker.kuroy.me:5944/announce
 
+http://tracker.leechshield.link:443/announce
+
 http://tracker.leena.network:6969/announce
 
 http://tracker.lelux.fi/announce
