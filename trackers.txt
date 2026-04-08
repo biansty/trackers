@@ -6280,6 +6280,8 @@ udp://tracker.prq.to/announce
 
 udp://tracker.prq.to:80/announce
 
+udp://tracker.ptrmc.net:6969/announce
+
 udp://tracker.publicbt.com:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
