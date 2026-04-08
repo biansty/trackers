@@ -2470,6 +2470,8 @@ http://tracker.minglong.org80/announce
 
 http://tracker.minglong.org:8080/announce
 
+http://tracker.moeblog.cn:443/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.morian.icu:443/announce
@@ -2749,6 +2751,8 @@ http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 
 http://widemus.de:6969/announce
+
+http://wtorrent.manalejandro.com:443/announce
 
 http://www.all4nothin.net/announce
 
