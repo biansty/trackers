@@ -3006,6 +3006,8 @@ https://chihaya.de/announce
 
 https://cny.fan/announce
 
+https://cny.fan:443/announce
+
 https://colibri.parrot.run/announce
 
 https://colibri.parrot.run:443/announce
@@ -3591,6 +3593,8 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
