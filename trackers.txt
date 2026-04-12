@@ -2440,6 +2440,8 @@ http://tracker.ktxp.com:6868/announce
 
 http://tracker.ktxp.com:7070/announce
 
+http://tracker.kuroy.me:443/announce
+
 http://tracker.kuroy.me:5944/announce
 
 http://tracker.leechshield.link:443/announce
