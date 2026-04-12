@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1934,6 +1936,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2019,6 +2023,8 @@ http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by/announce
 
@@ -2200,6 +2206,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2274,6 +2282,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2307,8 +2317,6 @@ http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 
 http://tracker.cutie.dating/announce
-
-http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -3216,6 +3224,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3372,8 +3382,6 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3475,8 +3483,6 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
@@ -3588,8 +3594,6 @@ https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.yggleak.top/announce
 
 https://tracker.yggleak.top:443/announce
@@ -3655,8 +3659,6 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
-
-https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
@@ -6475,6 +6477,8 @@ udp://tracker4.piratux.com:6969/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
+
+udp://trackthis.cyber.pz.it:1337/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
