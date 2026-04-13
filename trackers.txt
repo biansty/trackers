@@ -3330,6 +3330,8 @@ https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
 
+https://tracker.cutie.dating:443/announce
+
 https://tracker.cybar.xyz/announce
 
 https://tracker.cyber-hub.net/announce
