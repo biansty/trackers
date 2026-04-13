@@ -10,8 +10,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1938,8 +1936,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2025,8 +2021,6 @@ http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by/announce
 
@@ -2208,11 +2202,11 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
+
+http://tr.nyacat.pw:80/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2283,8 +2277,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
-
-http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -3018,8 +3010,6 @@ https://cny.fan/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3326,6 +3316,8 @@ https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.carpt.net/announce
 
 https://tracker.cinefiles.info/announce
@@ -3337,8 +3329,6 @@ https://tracker.coalition.space/announce
 https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.cybar.xyz/announce
 
@@ -3387,6 +3377,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3489,6 +3481,8 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
@@ -3599,6 +3593,8 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
