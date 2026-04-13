@@ -5812,6 +5812,8 @@ udp://santost12.xyz:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
 
+udp://secure.pow7.com:6969/announce
+
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
