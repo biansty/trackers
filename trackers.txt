@@ -3084,6 +3084,8 @@ https://open.acgnxtracker.com/announce
 
 https://open.acgtracker.com:1096/announce
 
+https://open.ftorrent.com/announce
+
 https://open.kickasstracker.com/announce
 
 https://open.lolicon.eu:7777/announce
