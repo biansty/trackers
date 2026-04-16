@@ -3486,6 +3486,8 @@ https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.moeking.me/announce
 
 https://tracker.monikadesign.uk/announce
@@ -3595,6 +3597,8 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
