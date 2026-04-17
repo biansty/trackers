@@ -1250,6 +1250,8 @@ http://62.60.157.92:6969/announce
 
 http://64.112.43.194:6969/announce
 
+http://64.226.122.118:6969/announce
+
 http://65.108.2.176:2710/announce
 
 http://65.130.190.21:9000/announce
