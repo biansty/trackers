@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1840,6 +1842,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2076,6 +2080,8 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -2218,6 +2224,8 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2288,6 +2296,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2297,6 +2307,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -3238,6 +3250,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3320,6 +3334,8 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -3389,8 +3405,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3673,8 +3687,6 @@ https://w.wwwww.wtf/announce
 https://wolf.parrot.run/announce
 
 https://wsad.run.place/announce
-
-https://wsad.run.place:443/announce
 
 https://www.peckservers.com:9000/announce
 
