@@ -2214,6 +2214,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2670,6 +2672,8 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2835,8 +2839,6 @@ http://www.tribalmixes.com/announce
 http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com/announce
-
-http://www.wareztorrent.com:80/announce
 
 http://www.worldboxingvideoarchive.com/announce
 
@@ -3023,6 +3025,8 @@ https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
 
 https://cny.fan/announce
+
+https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
