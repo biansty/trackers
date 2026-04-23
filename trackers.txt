@@ -2090,6 +2090,8 @@ http://siambit.com/announce
 
 http://siambit.org/announce
 
+http://siwserver.duckdns.org:9900/announce
+
 http://smurfsoft.com:6969/announce
 
 http://sound-park.world:443/announce
