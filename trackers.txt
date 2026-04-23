@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2070,6 +2072,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2222,8 +2226,6 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2303,6 +2305,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2674,8 +2678,6 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2841,6 +2843,8 @@ http://www.tribalmixes.com/announce
 http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com/announce
+
+http://www.wareztorrent.com:80/announce
 
 http://www.worldboxingvideoarchive.com/announce
 
@@ -3028,8 +3032,6 @@ https://chihaya.de/announce
 
 https://cny.fan/announce
 
-https://cny.fan:443/announce
-
 https://colibri.parrot.run/announce
 
 https://danielcloud.ddns.net/announce
@@ -3207,8 +3209,6 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
@@ -3399,8 +3399,6 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3617,8 +3615,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
