@@ -2222,11 +2222,11 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
+
+http://tr.nyacat.pw:80/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2660,8 +2660,6 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -2679,6 +2677,8 @@ http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -3108,8 +3108,6 @@ https://open.touki.ru/announce
 
 https://opentracker.8880085.xyz/announce
 
-https://opentracker.8880085.xyz:443/announce
-
 https://opentracker.acgnx.se/announce
 
 https://opentracker.cc/announce
@@ -3211,6 +3209,8 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
@@ -3401,6 +3401,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3617,6 +3619,8 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
