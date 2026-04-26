@@ -6170,6 +6170,8 @@ udp://tracker.etree.org:6969/announce
 
 udp://tracker.ex.ua:80/announce
 
+udp://tracker.exe.in.th:6969/announce
+
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.fatkhoala.org:13710/announce
