@@ -2762,6 +2762,8 @@ http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://vito-tracker.space:6969/announce
+
 http://vps-c1adea63.vps.ovh.net:6969/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
