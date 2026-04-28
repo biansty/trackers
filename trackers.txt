@@ -1956,6 +1956,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2042,8 +2044,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2077,6 +2077,8 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
+
+http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2662,6 +2664,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -3214,6 +3218,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3247,6 +3253,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3507,8 +3515,6 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
