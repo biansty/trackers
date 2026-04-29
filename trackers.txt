@@ -1956,8 +1956,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2077,8 +2075,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2411,8 +2407,6 @@ http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
 
 http://tracker.ghostchu-services.top:443/announce
-
-http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
@@ -3219,8 +3213,6 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
