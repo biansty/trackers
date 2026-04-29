@@ -3512,6 +3512,8 @@ https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.moeking.me/announce
 
 https://tracker.moeking.me:443/announce
