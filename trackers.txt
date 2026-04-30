@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1958,6 +1960,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2078,6 +2082,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2085,6 +2091,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2226,6 +2234,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2312,6 +2322,8 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.ccc.de/announce
@@ -2330,13 +2342,13 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
 
 http://tracker.cutie.dating/announce
-
-http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -2410,6 +2422,8 @@ http://tracker.ghostchu-services.top/announce
 
 http://tracker.ghostchu-services.top:443/announce
 
+http://tracker.ghostchu-services.top:80/announce
+
 http://tracker.gigatorrents.ws:2710/announce
 
 http://tracker.grepler.com:6969/announce
@@ -2429,6 +2443,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3036,11 +3052,7 @@ https://chihaya.de/announce
 
 https://cny.fan/announce
 
-https://cny.fan:443/announce
-
 https://colibri.parrot.run/announce
-
-https://colibri.parrot.run:443/announce
 
 https://danielcloud.ddns.net/announce
 
@@ -3216,6 +3228,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3355,8 +3369,6 @@ https://tracker.coalition.space/announce
 https://tracker.crawfish.cf/announce
 
 https://tracker.cutie.dating/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.cybar.xyz/announce
 
@@ -3515,8 +3527,6 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
