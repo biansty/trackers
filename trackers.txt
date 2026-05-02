@@ -2046,6 +2046,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2079,8 +2081,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2333,6 +2333,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3217,8 +3219,6 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
