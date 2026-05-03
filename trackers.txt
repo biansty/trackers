@@ -5984,6 +5984,8 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
 
+udp://torrents.tmtime.dev:6969/announce
+
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://torrentvpn.club:6990/announce
@@ -6587,6 +6589,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
 
 udp://vito-tracker.space:2095/announce
+
+udp://vito-tracker.space:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
