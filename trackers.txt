@@ -2234,6 +2234,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -3484,6 +3486,8 @@ https://tracker.leechshield.link/announce
 
 https://tracker.lelux.fi/announce
 
+https://tracker.lenition.de:443/announce
+
 https://tracker.lilithraws.cf/announce
 
 https://tracker.lilithraws.org/announce
@@ -3581,6 +3585,8 @@ https://tracker.renfei.net/announce
 https://tracker.renfei.net:8080/announce
 
 https://tracker.sakurato.art:23334/announce
+
+https://tracker.samcze.pl:443/announce
 
 https://tracker.shittyurl.org/announce
 
