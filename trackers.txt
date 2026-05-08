@@ -3222,8 +3222,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3257,8 +3255,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3351,6 +3347,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3519,6 +3517,8 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
