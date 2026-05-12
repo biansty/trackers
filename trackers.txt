@@ -2692,6 +2692,8 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -3049,6 +3051,8 @@ https://chihaya.de/announce
 https://cny.fan/announce
 
 https://colibri.parrot.run/announce
+
+https://colibri.parrot.run:443/announce
 
 https://danielcloud.ddns.net/announce
 
@@ -3519,6 +3523,8 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
