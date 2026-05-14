@@ -10,8 +10,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2244,8 +2242,6 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2697,8 +2693,6 @@ http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -3232,6 +3226,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3265,6 +3261,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
