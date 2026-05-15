@@ -2246,6 +2246,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -3525,6 +3527,8 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
@@ -6047,6 +6051,8 @@ udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
+
+udp://tr.btube3.com:2010/announce
 
 udp://tr.cili001.com:8070/announce
 
