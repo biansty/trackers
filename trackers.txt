@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1876,6 +1878,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2068,6 +2072,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2249,8 +2255,6 @@ http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw/announce
 
@@ -2453,6 +2457,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3531,8 +3537,6 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
