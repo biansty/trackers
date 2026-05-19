@@ -80,6 +80,8 @@ http://113.16.155.112:6969/announce
 
 http://113.16.155.116:6969/announce
 
+http://113.16.155.135:6969/announce
+
 http://113.16.155.146:6969/announce
 
 http://113.16.155.226:6969/announce
@@ -4803,6 +4805,8 @@ udp://41.79.68.156:6969/announce
 udp://43.139.20.56:6969/announce
 
 udp://43.154.112.29:17272/announce
+
+udp://43.250.54.126:6969/announce
 
 udp://43.250.54.137:6969/announce
 
