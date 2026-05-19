@@ -2108,6 +2108,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2115,6 +2117,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2255,6 +2259,8 @@ http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw/announce
 
@@ -2457,6 +2463,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3066,6 +3074,8 @@ https://cny.fan/announce
 
 https://colibri.parrot.run/announce
 
+https://colibri.parrot.run:443/announce
+
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3239,6 +3249,8 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
@@ -3422,13 +3434,13 @@ https://tracker.flashtorrents.org:6969/announce
 
 https://tracker.foreverpirates.co/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://tracker.fr.eu.org/announce
 
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3535,8 +3547,6 @@ https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 
 https://tracker.moeblog.cn/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me/announce
 
