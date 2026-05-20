@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1884,6 +1886,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2110,8 +2114,6 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2119,8 +2121,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2262,8 +2262,6 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2340,6 +2338,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2349,6 +2349,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2465,8 +2467,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3076,8 +3076,6 @@ https://cny.fan/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -3251,8 +3249,6 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
@@ -3436,13 +3432,13 @@ https://tracker.flashtorrents.org:6969/announce
 
 https://tracker.foreverpirates.co/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.fr.eu.org/announce
 
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
