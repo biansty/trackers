@@ -10,8 +10,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2086,8 +2084,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2122,8 +2118,6 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2131,8 +2125,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -3259,8 +3251,6 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
