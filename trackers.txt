@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2002,6 +2004,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2122,6 +2126,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2129,6 +2135,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2355,6 +2363,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -3152,6 +3162,8 @@ https://open.touki.ru/announce
 
 https://opentracker.8880085.xyz/announce
 
+https://opentracker.8880085.xyz:443/announce
+
 https://opentracker.acgnx.se/announce
 
 https://opentracker.cc/announce
@@ -3353,6 +3365,8 @@ https://tracker.alaskantf.com/announce
 https://tracker.aletorrenty.pl:2710/announce
 
 https://tracker.amelia.fun/announce
+
+https://tracker.anibt.net:443/announce
 
 https://tracker.babico.name.tr/announce
 
