@@ -2724,6 +2724,8 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -3358,8 +3360,6 @@ https://tracker.amelia.fun/announce
 
 https://tracker.anibt.net/announce
 
-https://tracker.anibt.net:443/announce
-
 https://tracker.babico.name.tr/announce
 
 https://tracker.baka.ink/announce
@@ -3560,8 +3560,6 @@ https://tracker.moeblog.cn/announce
 
 https://tracker.moeking.me/announce
 
-https://tracker.moeking.me:443/announce
-
 https://tracker.monikadesign.uk/announce
 
 https://tracker.morian.icu/announce
@@ -3739,6 +3737,8 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
+
+https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
