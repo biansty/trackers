@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2090,6 +2092,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2724,8 +2728,6 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2749,8 +2751,6 @@ http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com/announce
 
 http://tracker2.dler.org/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.istole.it:60500/announce
 
@@ -3294,8 +3294,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3737,8 +3735,6 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
-
-https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
