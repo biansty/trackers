@@ -1902,6 +1902,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2094,8 +2096,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2278,6 +2278,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2382,6 +2384,8 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
@@ -2479,6 +2483,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3262,6 +3268,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3295,6 +3303,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
