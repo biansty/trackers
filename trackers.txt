@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2010,6 +2012,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2480,6 +2484,8 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru/announce
 
 http://tracker.iro.moe/announce
@@ -2730,8 +2736,6 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -2755,6 +2759,8 @@ http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com/announce
 
 http://tracker2.dler.org/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.istole.it:60500/announce
 
@@ -3336,6 +3342,8 @@ https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tr2.trkb.ru/announce
 
 https://track.solcloud.eu/announce
@@ -3552,6 +3560,8 @@ https://tracker.madtia.cc/announce
 
 https://tracker.manager.itislove.cz/announce
 
+https://tracker.manager.itislove.cz:443/announce
+
 https://tracker.manager.v6.navy/announce
 
 https://tracker.manager.v6.navy:443/announce
@@ -3567,8 +3577,6 @@ https://tracker.mlsub.net/announce
 https://tracker.moeblog.cn/announce
 
 https://tracker.moeking.me/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.monikadesign.uk/announce
 
