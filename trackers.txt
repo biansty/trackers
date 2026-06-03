@@ -1590,6 +1590,8 @@ http://anisource.spb.ru/announce
 
 http://announce.partis.si/announce
 
+http://announce.sktorrent.eu:6969/announce
+
 http://announce.torrentsmd.com:6969/announce
 
 http://asiatorrent.ddns.net:51413/announce
@@ -2599,6 +2601,8 @@ http://tracker.peckservers.com:9000/announce
 http://tracker.phoenix.lol/announce
 
 http://tracker.pimp4003.net/announce
+
+http://tracker.plx.im:6969/announce
 
 http://tracker.pomf.se/announce
 
