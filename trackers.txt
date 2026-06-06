@@ -1914,6 +1914,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2020,8 +2022,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2108,8 +2108,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2146,6 +2144,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2153,6 +2153,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2747,6 +2749,8 @@ http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -6471,6 +6475,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
