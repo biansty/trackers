@@ -1780,6 +1780,8 @@ http://data-bg.net/announce
 
 http://datascene.net/announce
 
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
+
 http://debuz.com:6969/announce
 
 http://denis.stalker.h3q.com/announce
@@ -2024,6 +2026,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2110,6 +2114,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2145,8 +2151,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2373,6 +2377,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2731,8 +2737,6 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -3300,8 +3304,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3404,6 +3406,8 @@ https://tracker.amelia.fun/announce
 
 https://tracker.anibt.net/announce
 
+https://tracker.anibt.net:443/announce
+
 https://tracker.babico.name.tr/announce
 
 https://tracker.baka.ink/announce
@@ -3413,6 +3417,10 @@ https://tracker.bangumi.zip/announce
 https://tracker.baravik.org:6970/announce
 
 https://tracker.belmult.online/announce
+
+https://tracker.bigbewbs.online/announce
+
+https://tracker.bigbewbs.online:443/announce
 
 https://tracker.bittor.pw:1337/announce
 
