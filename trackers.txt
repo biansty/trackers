@@ -6482,6 +6482,8 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
+udp://tracker.opentrackr.com:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.orsvarn.com:6969/announce
@@ -6525,6 +6527,8 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
+
+udp://tracker.segso.net:6969/announce
 
 udp://tracker.sharebro.in:6969/announce
 
