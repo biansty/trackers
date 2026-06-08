@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1920,8 +1922,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2154,6 +2154,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2161,8 +2163,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2392,6 +2392,8 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.ccc.de/announce
@@ -2409,6 +2411,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2740,6 +2744,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -2757,8 +2763,6 @@ http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -3599,8 +3603,6 @@ https://tracker.m-team.cc/announce
 https://tracker.madtia.cc/announce
 
 https://tracker.manager.itislove.cz/announce
-
-https://tracker.manager.itislove.cz:443/announce
 
 https://tracker.manager.v6.navy/announce
 
