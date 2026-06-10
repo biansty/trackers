@@ -2032,6 +2032,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2298,15 +2300,11 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
 
-http://tr.highstar.shop:80/announce
-
 http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
-
-http://tr.nyacat.pw:80/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2503,6 +2501,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2735,6 +2735,8 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -3242,8 +3244,6 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
-https://shahidrazi.online:443/announce
-
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3300,6 +3300,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3333,6 +3335,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3592,6 +3596,8 @@ https://tracker.madtia.cc/announce
 
 https://tracker.manager.itislove.cz/announce
 
+https://tracker.manager.itislove.cz:443/announce
+
 https://tracker.manager.v6.navy/announce
 
 https://tracker.manager.v6.navy:443/announce
@@ -3719,8 +3725,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
