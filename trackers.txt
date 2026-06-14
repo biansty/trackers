@@ -1598,6 +1598,8 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -2307,6 +2309,8 @@ http://tr.cili001.com70/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
+
+http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
@@ -6039,6 +6043,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 
 udp://shadowshq.yi.org:6969/announce
+
+udp://shahidrazi.online:1984/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
 
