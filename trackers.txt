@@ -1610,8 +1610,6 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -2056,8 +2054,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2179,8 +2175,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2325,8 +2319,6 @@ http://tr.cili001.com70/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
-
-http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
@@ -3276,8 +3268,6 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
-https://shahidrazi.online:443/announce
-
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3333,6 +3323,8 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrent.ubuntu.com/announce
 
