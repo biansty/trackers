@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1948,6 +1950,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2184,6 +2188,8 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -2327,8 +2333,6 @@ http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
-
-http://tr.nyacat.pw:80/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -3359,8 +3363,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
