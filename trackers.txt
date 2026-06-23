@@ -1610,6 +1610,8 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -2054,8 +2056,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2142,8 +2142,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2179,8 +2177,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2326,6 +2322,8 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
 
+http://tr.highstar.shop:80/announce
+
 http://tr.kxmp.cf/announce
 
 http://tr.kxmp.cf:80/announce
@@ -2416,9 +2414,9 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
+
+http://tracker.cbase.cc:6969/announce
 
 http://tracker.ccc.de/announce
 
@@ -2435,8 +2433,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2535,8 +2531,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3284,6 +3278,8 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
+https://shahidrazi.online:443/announce
+
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3340,6 +3336,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3373,8 +3371,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3465,6 +3461,8 @@ https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
 
