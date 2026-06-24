@@ -2142,6 +2142,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2433,6 +2435,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3336,8 +3340,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3819,6 +3821,8 @@ https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 
 https://wolf.parrot.run/announce
+
+https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
@@ -6533,6 +6537,8 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.com:1337/announce
+
+udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
