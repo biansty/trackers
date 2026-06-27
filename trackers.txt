@@ -10,8 +10,6 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2064,6 +2062,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2150,6 +2150,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2186,8 +2188,6 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2195,6 +2195,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2412,6 +2414,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2441,6 +2445,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -3342,6 +3348,8 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3375,6 +3383,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
