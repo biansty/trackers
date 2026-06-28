@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2188,6 +2190,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2426,6 +2430,8 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.cbase.cc:6969/announce
@@ -2445,8 +2451,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2545,6 +2549,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3271,8 +3277,6 @@ https://private.minimafia.nl/announce
 https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://retracker.gorcomnet.ru/announce
 
