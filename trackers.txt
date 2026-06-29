@@ -2064,8 +2064,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2199,8 +2197,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2342,6 +2338,8 @@ http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
@@ -2452,9 +2450,13 @@ http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
+
+http://tracker.cubonegro.org:80/announce
 
 http://tracker.cutie.dating/announce
 
@@ -2549,8 +2551,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2803,6 +2803,8 @@ http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.eu.org:36107/announce
 
@@ -3699,8 +3701,6 @@ https://tracker.parrotsec.org/announce
 https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
-
-https://tracker.pmman.tech:443/announce
 
 https://tracker.projectk.org/announce
 
