@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1954,6 +1956,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2146,6 +2150,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2189,8 +2195,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2410,8 +2414,6 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2421,6 +2423,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -2441,8 +2445,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2543,6 +2545,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3384,8 +3388,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3584,6 +3586,10 @@ https://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.iriseden.fr/announce
 
+https://tracker.isbigdick.cc.cd/announce
+
+https://tracker.isbigdick.cc.cd:443/announce
+
 https://tracker.itscraftsoftware.my.id/announce
 
 https://tracker.jdx3.org/announce
@@ -3713,6 +3719,8 @@ https://tracker.puvvadi.net/announce
 https://tracker.qingwa.pro/announce
 
 https://tracker.qingwapt.org/announce
+
+https://tracker.qingwapt.org:443/announce
 
 https://tracker.quix.cf/announce
 
