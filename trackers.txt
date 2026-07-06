@@ -6,11 +6,7 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
-http://004430.xyz:80/announce
-
 http://0123456789nonexistent.com/announce
-
-http://0123456789nonexistent.com:80/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1958,8 +1954,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2066,8 +2060,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2153,6 +2145,8 @@ http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by/announce
 
@@ -2426,8 +2420,6 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.cbase.cc:6969/announce
@@ -2547,8 +2539,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -6551,6 +6541,8 @@ udp://tracker.nanoha.org:443/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.netmap.top:6969/announce
+
+udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nitrix.me:6969/announce
 
