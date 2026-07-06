@@ -5104,6 +5104,8 @@ udp://64.23.195.62:6969/announce
 
 udp://65.108.102.76:6969/announce
 
+udp://65.109.28.17:6969/announce
+
 udp://65.21.91.32:6969/announce
 
 udp://67.222.238.222:2010/announce
