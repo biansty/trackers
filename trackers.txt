@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
+http://004430.xyz:80/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -37,6 +39,8 @@ http://107.152.127.9:6969/announce
 http://107.152.45.140/announce
 
 http://107.189.10.20.sslip.io:7777/announce
+
+http://107.189.2.131:1337/announce
 
 http://107.189.31.134:6969/announce
 
@@ -287,6 +291,8 @@ http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 
 http://13.115.115.32:6969/announce
+
+http://132.243.161.144:6969/announce
 
 http://1337.abcvg.info/announce
 
@@ -1606,6 +1612,8 @@ http://97.117.85.73:9000/announce
 
 http://99.192.12.191:6969/announce
 
+http://[2605:6400:30:fad6::dead:c0d3]:1337/announce
+
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://a.leopard-raws.org:6969/announce
@@ -1984,6 +1992,8 @@ http://mail2.zelenaya.net/announce
 
 http://masters-tb.com/announce
 
+http://maxsrv.xyz:9000/announce
+
 http://mc.itscraftsoftware.my.id:8804/announce
 
 http://mediaclub.tv/announce
@@ -2059,6 +2069,8 @@ http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://open.va.wiki:900/announce
 
@@ -2644,6 +2656,8 @@ http://tracker.openbittorrent.com/announce
 
 http://tracker.openbittorrrent.com/announce
 
+http://tracker.opentorrent.top:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openzim.org/announce
@@ -2711,6 +2725,8 @@ http://tracker.tfile.co/announce
 http://tracker.tfile.me/announce
 
 http://tracker.theempire.bz:3110/announce
+
+http://tracker.therarbg.to:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
 
@@ -3261,8 +3277,6 @@ https://p4p.arenabg.ch:1337/announce
 https://p4p.arenabg.com:1337/announce
 
 https://php-bobcat.wasmer.app/announce
-
-https://php-bobcat.wasmer.app:443/announce
 
 https://pow7.com:80/announce
 
