@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1622,8 +1624,6 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -1962,6 +1962,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2158,8 +2160,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2195,6 +2195,8 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
+
+http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2340,8 +2342,6 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
 
-http://tr.highstar.shop:80/announce
-
 http://tr.kxmp.cf/announce
 
 http://tr.kxmp.cf:80/announce
@@ -2421,6 +2421,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -3308,8 +3310,6 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
-https://shahidrazi.online:443/announce
-
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3368,8 +3368,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3403,6 +3401,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
