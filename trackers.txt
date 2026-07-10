@@ -1624,6 +1624,8 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -2335,6 +2337,8 @@ http://tr.cili001.com70/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
+
+http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
 
@@ -3302,6 +3306,8 @@ https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
 
+https://shahidrazi.online:443/announce
+
 https://socket.onvo.me/announce
 
 https://sparkle.ghostchu-services.top/announce
@@ -3360,8 +3366,6 @@ https://torrent.opiums.eu/announce
 
 https://torrent.tracker.durukanbal.com/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrent.ubuntu.com/announce
 
 https://torrentonline.cc/announce
@@ -3395,8 +3399,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3597,8 +3599,6 @@ https://tracker.ipv6tracker.ru:80/announce
 https://tracker.iriseden.fr/announce
 
 https://tracker.isbigdick.cc.cd/announce
-
-https://tracker.isbigdick.cc.cd:443/announce
 
 https://tracker.itscraftsoftware.my.id/announce
 
@@ -5691,6 +5691,8 @@ udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
 
 udp://dpiui.reedlan.com:6969/announce
+
+udp://ds32244.seedhost.eu:6969/announce
 
 udp://dyndns.xionxiii.ovh:6969/announce
 
