@@ -2230,6 +2230,8 @@ http://sugoi.pomf.se/announce
 
 http://sukebei.tracker.wf:8888/announce
 
+http://supertracker.cc.cd/announce
+
 http://supertracker.cc.cd:80/announce
 
 http://t-backup.213891.xyz/announce
