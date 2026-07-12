@@ -1964,8 +1964,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2195,8 +2193,6 @@ http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru/announce
 
@@ -2430,6 +2426,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2465,8 +2463,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site/announce
 
 http://tracker.cubonegro.org/announce
-
-http://tracker.cubonegro.org:80/announce
 
 http://tracker.cutie.dating/announce
 
@@ -3673,8 +3669,6 @@ https://tracker.m-team.cc/announce
 https://tracker.madtia.cc/announce
 
 https://tracker.manager.itislove.cz/announce
-
-https://tracker.manager.itislove.cz:443/announce
 
 https://tracker.manager.v6.navy/announce
 
