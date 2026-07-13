@@ -3466,6 +3466,8 @@ https://tracker.aburaya.live/announce
 
 https://tracker.acgnx.se/announce
 
+https://tracker.adgk.net/announce
+
 https://tracker.adgk.net:443/announce
 
 https://tracker.alaskantf.com/announce
