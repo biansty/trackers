@@ -2228,6 +2228,8 @@ http://sukebei.tracker.wf:8888/announce
 
 http://supertracker.cc.cd/announce
 
+http://supertracker.cc.cd:80/announce
+
 http://t-backup.213891.xyz/announce
 
 http://t.213891.xyz:443/announce
@@ -2424,8 +2426,6 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2435,8 +2435,6 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -3283,8 +3281,6 @@ https://p4p.arenabg.ch:1337/announce
 https://p4p.arenabg.com:1337/announce
 
 https://php-bobcat.wasmer.app/announce
-
-https://php-bobcat.wasmer.app:443/announce
 
 https://pow7.com:80/announce
 
