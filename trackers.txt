@@ -1628,6 +1628,8 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -1965,6 +1967,8 @@ http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
 
 http://jvavav.com/announce
+
+http://jvavav.com:80/announce
 
 http://kamikazee.duckdns.org:7777/announce
 
@@ -2348,6 +2352,8 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
 
+http://tr.highstar.shop:80/announce
+
 http://tr.kxmp.cf/announce
 
 http://tr.kxmp.cf:80/announce
@@ -2428,6 +2434,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2437,6 +2445,8 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -3311,6 +3321,8 @@ https://secure.pow7.com/announce
 https://seeders-paradise.org/announce
 
 https://shahidrazi.online/announce
+
+https://shahidrazi.online:443/announce
 
 https://socket.onvo.me/announce
 
