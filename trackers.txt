@@ -2228,8 +2228,6 @@ http://sukebei.tracker.wf:8888/announce
 
 http://supertracker.cc.cd/announce
 
-http://supertracker.cc.cd:80/announce
-
 http://t-backup.213891.xyz/announce
 
 http://t.213891.xyz:443/announce
@@ -2347,8 +2345,6 @@ http://tr.highstar.shop/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.kxmp.cf/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw/announce
 
@@ -3402,8 +3398,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3463,8 +3457,6 @@ https://tracker.aburaya.live/announce
 https://tracker.acgnx.se/announce
 
 https://tracker.adgk.net/announce
-
-https://tracker.adgk.net:443/announce
 
 https://tracker.alaskantf.com/announce
 
