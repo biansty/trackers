@@ -5706,6 +5706,8 @@ udp://eccologic.net:6969/announce
 
 udp://eddie4.nl:6969/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://edu.uifr.ru:6969/announce
 
 udp://elementsbrowser.com:6969/announce
