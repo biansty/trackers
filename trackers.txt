@@ -2634,6 +2634,8 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.nexusstream.eu:6969/announce
+
 http://tracker.noobsubs.net/announce
 
 http://tracker.novalayer.org:6969/announce
@@ -3187,6 +3189,8 @@ https://docker-tracker-production.up.railway.app/announce
 https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).udp:/open.stealth.si:80/announce
 
 https://edge-team.cc/announce
+
+https://edgev.duckdns.org/announce
 
 https://evening-badlands-6215.herokuapp.com/announce
 
