@@ -2202,6 +2202,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2429,6 +2431,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -3470,6 +3474,8 @@ https://tracker.acgnx.se/announce
 
 https://tracker.adgk.net/announce
 
+https://tracker.adgk.net:443/announce
+
 https://tracker.alaskantf.com/announce
 
 https://tracker.aletorrenty.pl:2710/announce
@@ -3571,6 +3577,8 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz/announce
 
@@ -3795,8 +3803,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
