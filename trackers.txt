@@ -3504,6 +3504,8 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com/announce
 
 https://tracker.bulao.ren/announce
@@ -6605,6 +6607,8 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nitrix.me:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
+
+udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
