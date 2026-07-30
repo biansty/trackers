@@ -2210,6 +2210,8 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -3725,8 +3727,6 @@ https://tracker.parrotsec.org/announce
 https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
-
-https://tracker.pmman.tech:443/announce
 
 https://tracker.projectk.org/announce
 
