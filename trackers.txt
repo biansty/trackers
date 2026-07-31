@@ -2212,8 +2212,6 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -3416,6 +3414,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3580,8 +3580,6 @@ https://tracker.gbitt.info/announce
 
 https://tracker.gcrenwp.top/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.gcrreen.xyz/announce
 
 https://tracker.ghostchu-services.top/announce
@@ -3729,6 +3727,8 @@ https://tracker.parrotsec.org/announce
 https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.projectk.org/announce
 
