@@ -616,6 +616,8 @@ http://184.61.17.58:9000/announce
 
 http://185.121.24.141:6969/announce
 
+http://185.126.65.92:6969/announce
+
 http://185.130.47.2:6969/announce
 
 http://185.148.3.231/announce
