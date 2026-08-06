@@ -6554,6 +6554,8 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.justseed.it:1337/announce
 
+udp://tracker.k.vu:6969/announce
+
 udp://tracker.kali.org:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
