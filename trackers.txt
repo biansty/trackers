@@ -1978,6 +1978,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2446,8 +2448,6 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.cbase.cc:6969/announce
@@ -2467,8 +2467,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2567,6 +2565,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2851,8 +2851,6 @@ http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com/announce
 
 http://tracker2.dler.org/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.istole.it:60500/announce
 
@@ -3206,6 +3204,8 @@ https://edge-team.cc/announce
 
 https://edgev.duckdns.org/announce
 
+https://edgev.duckdns.org:443/announce
+
 https://evening-badlands-6215.herokuapp.com/announce
 
 https://explodie.org:6969/announce
@@ -3225,6 +3225,8 @@ https://hcbt.pp.ua/announce
 https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
+
+https://ht.therarbg.to:443/announce
 
 https://http1.torrust-tracker-demo.com/announce
 
