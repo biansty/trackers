@@ -670,6 +670,8 @@ http://187.11.72.188:6969/announce
 
 http://187.11.72.236:6969/announce
 
+http://187.11.73.135:6969/announce
+
 http://187.11.73.178:6969/announce
 
 http://187.11.73.20:6969/announce
@@ -4068,6 +4070,8 @@ udp://142.132.183.104:6969/announce
 
 udp://143.198.64.177:6969/announce
 
+udp://143.246.43.3:6969/announce
+
 udp://144.126.245.19:6969/announce
 
 udp://144.91.88.22:6969/announce
@@ -4366,6 +4370,8 @@ udp://185.181.60.67:80/announce
 
 udp://185.189.13.108:6969/announce
 
+udp://185.189.13.39:6969/announce
+
 udp://185.216.179.62:25/announce
 
 udp://185.225.68.26:6969/announce
@@ -4407,6 +4413,8 @@ udp://187.11.72.168:6969/announce
 udp://187.11.72.188:6969/announce
 
 udp://187.11.72.236:6969/announce
+
+udp://187.11.73.135:6969/announce
 
 udp://187.11.73.178:6969/announce
 
