@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -2100,6 +2102,8 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2185,6 +2189,8 @@ http://retracker.seven-sky.net/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by/announce
 
@@ -2375,8 +2381,6 @@ http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
-
-http://tr.nyacat.pw:80/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -2829,8 +2833,6 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
 
 http://tracker.zhuqiy.com:443/announce
-
-http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -3422,6 +3424,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3441,8 +3445,6 @@ https://tr.kxmp.cf/announce
 https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
-
-https://tr.nyacat.pw:443/announce
 
 https://tr.qfruiti.com/announce
 
@@ -3481,6 +3483,8 @@ https://tracker.aburaya.live/announce
 https://tracker.acgnx.se/announce
 
 https://tracker.adgk.net/announce
+
+https://tracker.adgk.net:443/announce
 
 https://tracker.alaskantf.com/announce
 
@@ -3813,8 +3817,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
