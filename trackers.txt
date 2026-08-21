@@ -2456,6 +2456,8 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.cbase.cc:6969/announce
@@ -3310,8 +3312,6 @@ https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.gorcomnet.ru/announce
 
 https://retracker.krs-ix.ru/announce
@@ -3453,8 +3453,6 @@ https://tr.steins-gate.moe:2096/announce
 https://tr.torland.ga/announce
 
 https://tr.zukizuki.org/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tr2.trkb.ru/announce
 
