@@ -2374,8 +2374,6 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2832,6 +2830,8 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker.zhuqiy.top/announce
@@ -3212,6 +3212,8 @@ https://edge-team.cc/announce
 
 https://edgev.duckdns.org/announce
 
+https://edgev.duckdns.org:443/announce
+
 https://evening-badlands-6215.herokuapp.com/announce
 
 https://explodie.org:6969/announce
@@ -3440,8 +3442,6 @@ https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tr.qfruiti.com/announce
 
 https://tr.qfruiti.in/announce
@@ -3523,8 +3523,6 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3815,8 +3813,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
