@@ -3214,8 +3214,6 @@ https://edge-team.cc/announce
 
 https://edgev.duckdns.org/announce
 
-https://edgev.duckdns.org:443/announce
-
 https://evening-badlands-6215.herokuapp.com/announce
 
 https://explodie.org:6969/announce
@@ -3315,8 +3313,6 @@ https://private.minimafia.nl/announce
 https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://retracker.gorcomnet.ru/announce
 
@@ -3423,6 +3419,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -6545,6 +6543,8 @@ udp://tracker.gbitt.info:80/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.govt.hu:6969/announce
 
 udp://tracker.grepler.com:6969/announce
 
