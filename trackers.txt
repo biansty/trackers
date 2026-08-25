@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1994,6 +1996,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2101,6 +2105,8 @@ http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://open.va.wiki:900/announce
 
@@ -2224,6 +2230,8 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2231,6 +2239,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2376,6 +2386,8 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2456,6 +2468,8 @@ http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.cbase.cc:6969/announce
@@ -2475,6 +2489,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2573,6 +2589,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3314,6 +3332,8 @@ https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker.gorcomnet.ru/announce
 
 https://retracker.krs-ix.ru/announce
@@ -3441,6 +3461,8 @@ https://tr.kxmp.cf/announce
 https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://tr.qfruiti.com/announce
 
@@ -3673,8 +3695,6 @@ https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.org/announce
 
 https://tracker.linvk.com/announce
-
-https://tracker.linvk.com:443/announce
 
 https://tracker.logirl.moe/announce
 
