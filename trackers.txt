@@ -1994,8 +1994,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2104,8 +2102,6 @@ http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.va.wiki:900/announce
 
 http://openbittorrent.com/announce
@@ -2192,8 +2188,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2237,6 +2231,8 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2382,6 +2378,8 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -2451,6 +2449,8 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
+
+http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -2579,8 +2579,6 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -3452,6 +3450,8 @@ https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
 
+https://tr.nyacat.pw:443/announce
+
 https://tr.qfruiti.com/announce
 
 https://tr.qfruiti.in/announce
@@ -3489,8 +3489,6 @@ https://tracker.aburaya.live/announce
 https://tracker.acgnx.se/announce
 
 https://tracker.adgk.net/announce
-
-https://tracker.adgk.net:443/announce
 
 https://tracker.alaskantf.com/announce
 
@@ -3733,6 +3731,8 @@ https://tracker.nitrix.me/announce
 https://tracker.novy.vip/announce
 
 https://tracker.nyaa.tk/announce
+
+https://tracker.onetracker.net:443/announce
 
 https://tracker.opendev.cloud/announce
 
