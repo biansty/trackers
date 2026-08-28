@@ -3732,6 +3732,8 @@ https://tracker.novy.vip/announce
 
 https://tracker.nyaa.tk/announce
 
+https://tracker.onetracker.net/announce
+
 https://tracker.onetracker.net:443/announce
 
 https://tracker.opendev.cloud/announce
