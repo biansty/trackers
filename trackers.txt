@@ -6944,6 +6944,8 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://uabits.today:6990/announce
 
+udp://udp-tracker.adgk.net:6969/announce
+
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://udp.trackarr.org:6969/announce
