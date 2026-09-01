@@ -2000,8 +2000,6 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
-http://jvavav.com:80/announce
-
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2196,8 +2194,6 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by/announce
 
 http://retracker.x2k.ru/announce
@@ -2241,8 +2237,6 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shogiroom.com:6969/announce
 
@@ -2469,8 +2463,6 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 
 http://tracker.bz/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
