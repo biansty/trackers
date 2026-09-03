@@ -10,6 +10,8 @@ http://004430.xyz:80/announce
 
 http://0123456789nonexistent.com/announce
 
+http://0123456789nonexistent.com:80/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://0d.kebhana.mx:443/announce
@@ -1660,8 +1662,6 @@ http://aaa.army:8866/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://all4nothin.net/announce
@@ -2000,6 +2000,8 @@ http://jsb.by00/announce
 
 http://jvavav.com/announce
 
+http://jvavav.com:80/announce
+
 http://kamikazee.duckdns.org:7777/announce
 
 http://kinorun.com/announce
@@ -2230,8 +2232,6 @@ http://secure.pow7.com/announce
 
 http://seeders-paradise.org/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru/announce
 
 http://share.camoe.cn80/announce
@@ -2265,6 +2265,8 @@ http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
 
 http://supertracker.cc.cd/announce
+
+http://supertracker.cc.cd:80/announce
 
 http://t-backup.213891.xyz/announce
 
@@ -2458,6 +2460,8 @@ http://tracker.bt-chat.com/announce
 
 http://tracker.bt-hash.com/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com/announce
@@ -2489,6 +2493,8 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 
 http://tracker.corpscorp.online/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cubicview.site/announce
 
@@ -2587,6 +2593,8 @@ http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru/announce
 
@@ -2825,8 +2833,6 @@ http://tracker.xfsub.com:6868/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -3247,8 +3253,6 @@ https://hcbt.pp.ua/announce
 https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
-
-https://ht.therarbg.to:443/announce
 
 https://http1.torrust-tracker-demo.com/announce
 
