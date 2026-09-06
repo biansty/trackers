@@ -3246,6 +3246,8 @@ https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
 
+https://ht.therarbg.to:443/announce
+
 https://http1.torrust-tracker-demo.com/announce
 
 https://inferno.demonoid.is/announce
