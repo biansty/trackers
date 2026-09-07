@@ -2238,6 +2238,8 @@ http://share.camoe.cn:8080/announce
 
 http://share.hkg-fansub.info/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
 http://shogiroom.com:6969/announce
 
 http://shubt.net:2710/announce
@@ -2261,8 +2263,6 @@ http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
 
 http://supertracker.cc.cd/announce
-
-http://supertracker.cc.cd:80/announce
 
 http://t-backup.213891.xyz/announce
 
@@ -3535,8 +3535,6 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
