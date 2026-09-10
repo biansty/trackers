@@ -2504,6 +2504,8 @@ http://tracker.devil-torrents.pl/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.digital-alpha-world.de:6969/announce
+
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
