@@ -3540,6 +3540,8 @@ https://tracker.bt-hash.com/announce
 
 https://tracker.bt4g.com/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.bug38.com/announce
 
 https://tracker.bug38.com:443/announce
