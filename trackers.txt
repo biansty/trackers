@@ -1912,6 +1912,8 @@ http://fosstorrents.com:6969/announce
 
 http://freerainbowtables.com:6969/announce
 
+http://freetracker.i2p:7331/announce
+
 http://frp.v2fy.com00/announce
 
 http://frp.v2fy.com:8000/announce
@@ -3029,6 +3031,8 @@ http://xbtrutor.com:2710/announce
 http://xtremewrestlingtorrents.net/announce
 
 http://ydlkccp.dscloud.me:6969/announce
+
+http://yet-another-public-tracker.i2p/announce
 
 http://yggtracker.i2p.rocks/announce
 
@@ -5520,6 +5524,8 @@ udp://9.rarbg.to:2800/announce
 
 udp://9.rarbg.to:2910/announce
 
+udp://90.226.147.124:6969/announce
+
 udp://91.177.126.188:6969/announce
 
 udp://91.186.213.204:6969/announce
@@ -5855,6 +5861,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 
 udp://freedomalternative.com:6969/announce
+
+udp://freetracker.i2p:1337/announce
 
 udp://ftp.pet:2710/announce
 
