@@ -2776,6 +2776,8 @@ http://tracker.torrentino.com/announce
 
 http://tracker.torrentleech.org:2710/announce
 
+http://tracker.torrents.observer/announce
+
 http://tracker.torrentuje.me:2710/announce
 
 http://tracker.torrenty.org:6969/announce
