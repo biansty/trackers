@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
+http://004430.xyz:80/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -2384,8 +2386,6 @@ http://tr.nyacat.pw/announce
 
 http://tr.nyacat.pw:443/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tr1.aag.moe:2095/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -3458,8 +3458,6 @@ https://tr.kxmp.cf:80/announce
 
 https://tr.nyacat.pw/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tr.qfruiti.com/announce
 
 https://tr.qfruiti.in/announce
@@ -3529,8 +3527,6 @@ https://tracker.bt4g.com/announce
 https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com/announce
-
-https://tracker.bug38.com:443/announce
 
 https://tracker.bulao.ren/announce
 
