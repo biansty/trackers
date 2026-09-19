@@ -2008,6 +2008,8 @@ http://kinorun.com/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
+http://kolanopentracker.airdns.org:3392/announce
+
 http://laxclax.ddns.net00/announce
 
 http://laxclax.ddns.net:8000/announce
@@ -5955,6 +5957,8 @@ udp://kingof.torrentonline.cc:42069/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 
 udp://kokodayo.site:6969/announce
+
+udp://kolanopentracker.airdns.org:3392/announce
 
 udp://kristof.bartanet.cz:6969/announce
 
