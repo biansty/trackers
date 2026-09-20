@@ -6,6 +6,8 @@ http://00.xxtor.com:443/announce
 
 http://004430.xyz/announce
 
+http://004430.xyz:80/announce
+
 http://0123456789nonexistent.com/announce
 
 http://0205.uptm.ch:6969/announce
@@ -2830,8 +2832,6 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -3835,6 +3835,8 @@ https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
