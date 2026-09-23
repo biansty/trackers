@@ -3338,8 +3338,6 @@ https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.gorcomnet.ru/announce
 
 https://retracker.krs-ix.ru/announce
@@ -3547,8 +3545,6 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
