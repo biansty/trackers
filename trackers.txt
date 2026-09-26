@@ -3446,8 +3446,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3743,8 +3741,6 @@ https://tracker.novy.vip/announce
 https://tracker.nyaa.tk/announce
 
 https://tracker.onetracker.net/announce
-
-https://tracker.onetracker.net:443/announce
 
 https://tracker.opendev.cloud/announce
 
