@@ -252,6 +252,8 @@ http://123.245.62.53:6969/announce
 
 http://123.245.62.58:6969/announce
 
+http://123.245.62.62:6969/announce
+
 http://123.245.62.67:6969/announce
 
 http://123.245.62.68:6969/announce
