@@ -3344,8 +3344,6 @@ https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.gorcomnet.ru/announce
 
 https://retracker.krs-ix.ru/announce
@@ -3451,8 +3449,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
