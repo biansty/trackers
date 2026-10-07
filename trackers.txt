@@ -3266,6 +3266,8 @@ https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
 
+https://ht.therarbg.to:443/announce
+
 https://http1.torrust-tracker-demo.com/announce
 
 https://inferno.demonoid.is/announce
@@ -3843,6 +3845,8 @@ https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
@@ -5699,6 +5703,8 @@ udp://brightstar.freeddns.org:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
 
 udp://bry-dell-htpc.freeddns.org:6969/announce
+
+udp://bt-tracker.de:6969/announce
 
 udp://bt-tracker.devnak.win:6969/announce
 
