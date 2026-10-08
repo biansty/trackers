@@ -3266,8 +3266,6 @@ https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
 
-https://ht.therarbg.to:443/announce
-
 https://http1.torrust-tracker-demo.com/announce
 
 https://inferno.demonoid.is/announce
@@ -3545,8 +3543,6 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
-
-https://tracker.bug38.com:443/announce
 
 https://tracker.bulao.ren/announce
 
@@ -3845,8 +3841,6 @@ https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
-
-https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
