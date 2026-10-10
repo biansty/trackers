@@ -5674,6 +5674,8 @@ udp://bananas.space:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://banzaitracker.com:2710/announce
+
 udp://bclearning.top:6969/announce
 
 udp://bedro.cloud:6969/announce
