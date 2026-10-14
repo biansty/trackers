@@ -3348,8 +3348,6 @@ https://pt.btschool.club/announce
 
 https://pybittrack.retiolus.net/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.gorcomnet.ru/announce
 
 https://retracker.krs-ix.ru/announce
@@ -3547,6 +3545,8 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
+
+https://tracker.bug38.com:443/announce
 
 https://tracker.bulao.ren/announce
 
@@ -3845,6 +3845,8 @@ https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.zhuqiy.com/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.zhuqiy.top/announce
 
