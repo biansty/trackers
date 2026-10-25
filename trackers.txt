@@ -2846,8 +2846,6 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -3721,6 +3719,8 @@ https://tracker.maya.no.eu.org/announce
 https://tracker.mg64.net:6881/announce
 
 https://tracker.midnightprogrammer.net/announce
+
+https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.mlsub.net/announce
 
