@@ -6606,6 +6606,8 @@ udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.etree.org:6969/announce
 
+udp://tracker.evergarden.uk:1914/announce
+
 udp://tracker.ex.ua:80/announce
 
 udp://tracker.exe.in.th:6969/announce
