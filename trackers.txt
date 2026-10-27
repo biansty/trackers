@@ -500,6 +500,8 @@ http://177.144.178.170:6969/announce
 
 http://177.144.178.39:6969/announce
 
+http://177.16.198.108:6969/announce
+
 http://177.16.198.58:6969/announce
 
 http://177.172.61.236:6969/announce
@@ -4281,6 +4283,8 @@ udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 
 udp://177.144.178.39:6969/announce
+
+udp://177.16.198.108:6969/announce
 
 udp://177.16.198.58:6969/announce
 
