@@ -3262,6 +3262,8 @@ https://fbiagent.cyou/announce
 
 https://fxtt.ru:80/announce
 
+https://gargoyleperch.de:443/announce
+
 https://grifon.info:80/announce
 
 https://gwp2-v19.rinet.ru/announce
@@ -3459,8 +3461,6 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
@@ -3784,6 +3784,8 @@ https://tracker.publictorrent.net/announce
 
 https://tracker.puvvadi.net/announce
 
+https://tracker.puvvadi.net:443/announce
+
 https://tracker.qingwa.pro/announce
 
 https://tracker.qingwapt.org/announce
@@ -3845,8 +3847,6 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 
 https://tracker.yemekyedim.com/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker.yggleak.top/announce
 
