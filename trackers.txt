@@ -3786,8 +3786,6 @@ https://tracker.publictorrent.net/announce
 
 https://tracker.puvvadi.net/announce
 
-https://tracker.puvvadi.net:443/announce
-
 https://tracker.qingwa.pro/announce
 
 https://tracker.qingwapt.org/announce
@@ -3855,6 +3853,8 @@ https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
 
 https://tracker.yume-hatsuyuki.moe/announce
+
+https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker.zhuqiy.com/announce
 
