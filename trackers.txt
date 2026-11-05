@@ -3268,8 +3268,6 @@ https://fxtt.ru:80/announce
 
 https://gargoyleperch.de/announce
 
-https://gargoyleperch.de:443/announce
-
 https://grifon.info:80/announce
 
 https://gwp2-v19.rinet.ru/announce
@@ -3467,6 +3465,8 @@ https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf/announce
 
