@@ -4960,6 +4960,8 @@ udp://221.153.216.56:8081/announce
 
 udp://222.216.138.237:6969/announce
 
+udp://222.216.138.251:6969/announce
+
 udp://222.216.139.217:6969/announce
 
 udp://222.216.139.248:6969/announce
@@ -5871,6 +5873,8 @@ udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
+
+udp://discover.curiousfacts.blog:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 
