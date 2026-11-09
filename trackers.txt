@@ -3536,6 +3536,8 @@ https://tracker.amelia.fun/announce
 
 https://tracker.anibt.net/announce
 
+https://tracker.augrains.com/announce
+
 https://tracker.augrains.com:443/announce
 
 https://tracker.babico.name.tr/announce
