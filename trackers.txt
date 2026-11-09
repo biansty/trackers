@@ -5950,6 +5950,8 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://hbsy.zhuqiy.eu.org:6666/announce
 
+udp://hidden.torrentonline.cc:42069/announce
+
 udp://hificode.in:6969/announce
 
 udp://home.kray.pw:6969/announce
