@@ -3466,6 +3466,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3533,6 +3535,8 @@ https://tracker.aletorrenty.pl:2710/announce
 https://tracker.amelia.fun/announce
 
 https://tracker.anibt.net/announce
+
+https://tracker.augrains.com:443/announce
 
 https://tracker.babico.name.tr/announce
 
@@ -3729,8 +3733,6 @@ https://tracker.maya.no.eu.org/announce
 https://tracker.mg64.net:6881/announce
 
 https://tracker.midnightprogrammer.net/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.mlsub.net/announce
 
