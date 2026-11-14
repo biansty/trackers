@@ -6354,6 +6354,8 @@ udp://srv5.digiboy.ir:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
 
+udp://stairs.lat:6969/announce
+
 udp://stargrave.org:6969/announce
 
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
