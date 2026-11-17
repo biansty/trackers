@@ -3468,8 +3468,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf/announce
 
 https://tr.bangumi.moe:6969/announce
@@ -3849,6 +3847,8 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.vectahosting.eu/announce
 
 https://tracker.vectahosting.eu:2053/announce
+
+https://tracker.vectahosting.eu:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
