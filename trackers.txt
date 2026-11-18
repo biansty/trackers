@@ -2406,6 +2406,8 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop/announce
 
+http://tr.highstar.shop:80/announce
+
 http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
@@ -2980,6 +2982,8 @@ http://wtorrent.manalejandro.com:443/announce
 
 http://www.all4nothin.net/announce
 
+http://www.all4nothin.net:80/announce.php
+
 http://www.ansktracker.net/announce
 
 http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
@@ -3476,8 +3480,6 @@ https://tr.bangumi.moe:9696/announce
 
 https://tr.burnabyhighstar.com/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 https://tr.doogh.club/announce
 
 https://tr.fuckbitcoin.xyz/announce
@@ -3569,6 +3571,8 @@ https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 
 https://tracker.cangku.moe/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.carpt.net/announce
 
@@ -3847,8 +3851,6 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.vectahosting.eu/announce
 
 https://tracker.vectahosting.eu:2053/announce
-
-https://tracker.vectahosting.eu:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
