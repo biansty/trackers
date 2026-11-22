@@ -3298,8 +3298,6 @@ https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
 
-https://ht.therarbg.to:443/announce
-
 https://http1.torrust-tracker-demo.com/announce
 
 https://inferno.demonoid.is/announce
@@ -3426,6 +3424,8 @@ https://t.zerg.pw/announce
 
 https://t1.hloli.org/announce
 
+https://t1.hloli.org:443/announce
+
 https://t1.leech.ie/announce
 
 https://t1.pow7.com/announce
@@ -3528,6 +3528,8 @@ https://track.solcloud.eu/announce
 
 https://track3r.site/announce
 
+https://track3r.site:443/announce
+
 https://tracker-zhuqiy.dgj055.icu/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
@@ -3541,6 +3543,8 @@ https://tracker.7471.top/announce
 https://tracker.7471.top:443/announce
 
 https://tracker.aburaya.live/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://tracker.acgnx.se/announce
 
@@ -3798,8 +3802,6 @@ https://tracker.piggo.me/announce
 
 https://tracker.pmman.tech/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.projectk.org/announce
 
 https://tracker.ptchdbits.co/announce
@@ -3865,6 +3867,8 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.vectahosting.eu/announce
 
 https://tracker.vectahosting.eu:2053/announce
+
+https://tracker.vectahosting.eu:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
