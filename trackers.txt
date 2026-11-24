@@ -900,6 +900,8 @@ http://193.53.126.6:6961/announce
 
 http://194.106.216.222/announce
 
+http://194.247.183.66:6969/announce
+
 http://194.87.70.68:2710/announce
 
 http://195.123.209.37:1337/announce
@@ -3298,6 +3300,8 @@ https://hdpt.xyz/announce
 
 https://ht.therarbg.to/announce
 
+https://ht.therarbg.to:443/announce
+
 https://http1.torrust-tracker-demo.com/announce
 
 https://inferno.demonoid.is/announce
@@ -4727,6 +4731,8 @@ udp://194.110.247.18:6969/announce
 udp://194.169.160.46:1212/announce
 
 udp://194.195.86.132:6969/announce
+
+udp://194.247.183.66:6969/announce
 
 udp://194.38.21.77:6969/announce
 
