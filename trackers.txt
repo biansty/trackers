@@ -252,6 +252,8 @@ http://123.245.62.50:6969/announce
 
 http://123.245.62.53:6969/announce
 
+http://123.245.62.56:6969/announce
+
 http://123.245.62.58:6969/announce
 
 http://123.245.62.62:6969/announce
@@ -5327,6 +5329,8 @@ udp://62.210.114.129:6969/announce
 udp://62.212.85.66:2710/announce
 
 udp://62.60.157.92:6969/announce
+
+udp://63.32.173.135:27022/announce
 
 udp://64.23.195.62:6969/announce
 
