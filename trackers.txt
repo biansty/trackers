@@ -3320,6 +3320,8 @@ https://k.avc.cx/announce
 
 https://k3tracker.cc/announce
 
+https://lattice.peerrelay.workers.dev/announce
+
 https://lattice.peerrelay.workers.dev:443/announce
 
 https://lima-peru.subventas.com/announce
